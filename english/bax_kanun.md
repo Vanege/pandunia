@@ -234,7 +234,7 @@ The distance to the speaker can be specified by adding words **jin** (near) and 
 The demonstrative pronouns work like modifiers.
 
 > **sa batu.** - That stone  
-> **sa e batu.** - That is a stone.  
+> **sa ye batu.** - That is a stone.  
 > **sa batu cung.** - That stone is heavy.  
 
 
@@ -266,7 +266,7 @@ Verbs that end in **-a** use this triangular pattern.
     Word order triangle for verbs that end in -a
     
       V
-     ↗ ↘
+      
     S ← O
 
 #### 6.2.1. SVO order
@@ -276,7 +276,7 @@ The most common word order in Pandunia is subject-verb-object (SVO). In this sen
     subject-verb-object
     
       V
-     ↗ ↘
+      
     S   O
 
 Examples:  
@@ -290,7 +290,7 @@ The second structure in this triangle is OSV. It is frequent in dependant clause
     object-subject-verb
     
       V
-     ↗ 
+      
     S ← O
 
 For example: **me yem pan, jo ni baka.** - I eat bread _that you baked._
@@ -302,7 +302,7 @@ The third structure of this triangle is VOS, which is rarely used.
     verb-object-subject
     
       V
-       ↘
+       
     S ← O
 
 
@@ -314,7 +314,7 @@ Verbs that end in **-u** use this triangular pattern.
     Word order triangle for verbs that end in -u
     
       V
-     ↗ ↘
+      
     O ← S
 
 #### 6.3.1. SOV order
@@ -324,7 +324,7 @@ SOV order is commonly used alternative for SVO order.
     subject-object-verb
     
       V
-     ↗ 
+      
     O ← S
 
 Examples:  
@@ -338,7 +338,7 @@ OVS order is common in "passive" sentences.
     object-verb-subject
     
       V
-     ↗ ↘
+      
     O   S
 
 Examples:  
@@ -352,7 +352,7 @@ VSO order is very rare but possible.
     verb-subject-object
     
       V
-       ↘
+       
     O ← S
 
 ### 6.3. Passive sentences
