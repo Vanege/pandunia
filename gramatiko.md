@@ -109,7 +109,7 @@ Ili funkcias kiel adjektivoj.
 > **pandunia si _max_ bon _ka_ englix** - Pandunio estas _pli_ bona _ol_ la Angla.  
 > **munkin pandunia si _maxim_ izi** - Eble Pandunio estas _la plej_ facila.  
 > **mi kar _min_ multo _ka_ mi loga** - Mi faras _malpli_ multe _ol_ mi diras.  
-> **mi yem akol minim multo** - Mi konsumas alkoholon _malplej_ multe.  
+> **mi yem akol _minim_ multo** - Mi konsumas alkoholon _malplej_ multe.  
 
 --------------------------------------------------------------------------------
 
