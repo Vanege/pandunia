@@ -27,7 +27,7 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 
 La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _tio(n)_ aŭ _tiu(j)(n)_ antaŭ substantivo.
 
-> **liste** - listo, la listo
+> **liste** - listo, la listo  
 > **sa liste** - la listo (= tiu listo)  
 
 ### 1.3 Kunmetita vorto
@@ -46,14 +46,14 @@ Ili funkcias kiel substantivoj.
 
 > **mi** - mi, min  
 > **tu** - vi, vin  
-> **ye** - ŝi, li, ri, ĝi, ŝin, lin, rin, ĝin  
+> **ye** - ŝi, li, ri, ĝi, ŝin, lin, rin, ĝin  
 > **mimen** - ni, nin  
-> **tumen** - vi, vin    
+> **tumen** - vi, vin  
 > **yemen** - ili, ilin    
 
 ### Precizigi sekson  
 
-> **ye** - ŝi, li, ri, ĝi 
+> **ye** - ŝi, li, ri, ĝi  
 > **man ye** - li  
 > **fem ye** - ŝi  
 > **xe ye** - ĝi  
@@ -81,23 +81,23 @@ Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kuti
 
 Ili funkcias kiel adjektivoj.
 
-- 0 **nul**
-- 1 **un**
-- 2 **du**
-- 3 **sam**
-- 4 **car**
-- 5 **lim**
-- 6 **sis**
-- 7 **set**
-- 8 **bat**
-- 9 **noi**
-- 10 **un nul** aŭ **des**
-- 22 **du du** aŭ **du des du**
-- 100 **un nul nul** aŭ **hon**
-- 201 **du nul un** aŭ **du hon un**
-- 1 000 **un nul nul nul** aŭ **kilo**
-- 1 000 000 **mega** …
-- 1 000 000 000 **giga** …
+> **nul** - 0  
+> **un** - 1  
+> **du** - 2  
+> **sam** - 3  
+> **car** - 4  
+> **lim** - 5  
+> **sis** - 6  
+> **set** - 7  
+> **bat** - 8  
+> **noi** - 9  
+> **un nul** aŭ **des** - 10  
+> **du du** aŭ **du des du** - 22
+> **un nul nul** aŭ **hon** - 100
+> **du nul un** aŭ **du hon un** - 201
+> **un nul nul nul** aŭ **kilo** - 1 000
+> **mega** … - 1 000 000  
+> **giga** … - 1 000 000 000  
 
 ## 3. Verboj
 
