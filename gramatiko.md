@@ -103,7 +103,7 @@ Ili funkcias kiel adjektivoj.
 > **mega** … - 1 000 000  
 > **giga** … - 1 000 000 000  
 
-## 3.2 Komparoj  
+### 3.2 Komparoj  
 
 > **fem si _sem_ bon _ka_ man** - Ino estas _same_ bona _kiel_ iĉo.  
 > **pandunia si _max_ bon _ka_ englix** - Pandunio estas _pli_ bona _ol_ la Angla.  
@@ -113,13 +113,13 @@ Ili funkcias kiel adjektivoj.
 
 --------------------------------------------------------------------------------
 
-### 4. "Korelativoj"
+## 4. "Korelativoj"
 
 Pandunia ne havas korelativojn, sed oni povas facile rekrei iliajn signifojn per kombinado. La montra substantivo estas _sa_, kaj la demanda substantivo estas _ke_. Eblas uzi _unu_ kiel _i
 
-# Precizigi
+### Precizigi
 
-## 4.1 Montra substantivo: sa
+### 4.1 Montra substantivo: sa
 
 
 
@@ -132,10 +132,10 @@ Noto: oni povas fari ĉu-demandoj per _kia_
 > ne  
 
 
-## 4.2 Demanda substantivo: ke
+### 4.2 Demanda substantivo: ke
 
 
-## 4.3 Por helpi Esperantistojn
+### 4.3 Por helpi Esperantistojn
 
 
 
