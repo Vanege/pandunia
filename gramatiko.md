@@ -1,70 +1,52 @@
 Gramatiko
 =======
 
-## 0. Ĝenerala ideo
+akcento !!!!
 
-Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, sed oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi paroladon per informoj evidentaj pro strukturo aŭ kunteksto. Se kunteksto ne sufiĉas, oni precizigas.
+## 0. La spirito de la lingvo
+
+Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, sed oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi paroladon per informoj evidentaj. Se kunteksto ne sufiĉas, oni precizigas.
+
+Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la ...) estas strukture ne eblaj aŭ tre malprobablaj en Pandunia.
 
 ## 1. Substantivoj
 
-### 1.1 Gramatika nombro
+### 1.1 Gramatika nombro nemarkita
 
-Nombro (singularo aŭ pluralo) ne estas markita. Ĝi estas tiu, kiu taŭgas kun la resto de la frazo aŭ la kunteksto. Tamen, oni povas precizigi ĝin, ekzemple per adjektivo.
+Nombro (singularo aŭ pluralo) ne estas markita. Ĝi estas tiu, kiu plej taŭgas kun la resto de la frazo aŭ kun la kunteksto. Tamen, oni povas precizigi ĝin, ekzemple per adjektivo.
 
-> **maw** - kato, katoj  
-> **un maw** - (unu) kato  
-> **poli maw** - (pluraj) katoj  
-> **xau maw** - kelkaj katoj  
-> **multi tara** - multaj katoj  
+> **loge** - vorto, vortoj  
+> **un loge** - (unu) vorto  
+> **poli loge** - (pluraj) vortoj  
 
-Notu ke tiel, eraro kiel _kelka kato_ estas strukture neebla.
+### 1.2 Difina artikolo ne ekzistas
 
-### 1.2 Artikolo
+Ne ekzistas difina artikolo. Tamen, la ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _tiu(j)(n)_ antaŭ substantivo, aŭ _tio(n)_.
 
-Ne ekzistas difina artikolo. Tamen, la ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas __tiu__, __tio__ en Esperanto. 
+> **liste** - listo, la listo  
+> **sa liste** - la listo (= tiu listo) 
 
+### 1.3 Kunmetita vorto
 
+Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita vorto. La dekstra substantivo donas la naturon de la kunmetaĵo.
 
-akcento
-
+> **loge liste** - vortaro (vortlisto)  
 
 --------------------------------------------------------------------------------
 
-## 2. Nouns
+## 2. Pronomoj
 
-### 2.1. Uninflected
+### Posesive
+### Reflexivity
 
-A noun is a word that names a thing. Like all words in Pandunia, nouns are invariant. So the same form is used in singular and plural, in definite and indefinite, etc.
 
-> **batu** - a stone, stones, the stone or the stones  
-> **meza** - a table, tables, the table or the tables  
-> **kursi** - a chair, chairs, the chair or the chairs  
-> **su** - water
+## 2. Adjektivoj kaj Adverboj
+### Nombroj
 
-Quite often number and definiteness is known because it was specified earlier or because it is general knowledge. For example, normally the word **surya** refers to _the sun_ and **luna** refers to _the moon_, our only sun and our only moon.
+## 3. Verboj
 
-### 2.2. Number
+## 4. Finaĵoj
 
-Nouns are unaffected by number, i.e. nouns have the same form in singular and plural.
-
-An easy way to emphasize plurality is to repeat the noun.
-
-> **batu batu** - stones, lots of stones  
-> **tara tara** - stars, lots of stars  
-
-### 2.3. Gender
-
-Pandunia doesn't have grammatical gender (i.e. masculine, feminine and/or neuter categories).
-
-Some words carry _natural gender_. For example **fem** (woman) is feminine and **man** (man) is masculine.
-
-### 2.4. Compounds
-
-Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
-
-> **surya guang** - sunlight  
-> **luna guang** - moonlight  
-> **luna batu** - moonstone
 
 --------------------------------------------------------------------------------
 
