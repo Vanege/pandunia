@@ -7,7 +7,7 @@ akcento !!!!
 
 Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, kaj oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi esprimadon per informoj evidentaj. Se kunteksto ne sufiĉas, oni precizigas.
 
-Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la ...) iĝas strukture ne eblaj aŭ tre malprobablaj.
+Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la …) iĝas strukture ne eblaj aŭ tre malprobablaj.
 
 ## 1. Substantivoj
 
@@ -15,7 +15,7 @@ Substantivoj ne ŝanĝiĝas.
 
 > **maw** - kato, katoj, la kato, la katoj, katino, katinoj, la katino, la katinoj, katiĉo, katiĉoj, la katiĉo, la katiĉoj …
 
-### 1.1 Precizigi gramatikan nombron (kiel -j)
+### 1.1 Precizigi gramatikan nombron
 
 Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kunteksto. Tamen, oni povas facile precizigi per adjektivo.
 
@@ -23,32 +23,81 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 > **un loge** - (unu) vorto  
 > **poli loge** - (pluraj) vortoj  
 
-### 1.2 Precizigi definitecon (kiel la x)
+### 1.2 Precizigi definitecon
 
-La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _tiu(j)(n)_ (antaŭ substantivo) aŭ _tio(n)_.
+La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _tio(n)_ aŭ _tiu(j)(n)_ antaŭ substantivo.
 
 > **liste** - listo, la listo
-> **sa liste** - la listo (= tiu listo) 
+> **sa liste** - la listo (= tiu listo)  
 
 ### 1.3 Kunmetita vorto
 
 Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita vorto. La dekstra substantivo donas la naturon de la kunmetaĵo.
 
-> **loge liste** - vortaro (vortlisto)  
+> **loge liste** - vortaro (= vortlisto)  
+
+Noto: _sa liste_ fakte estas kombinaĵo de la substantivoj _tio_ kaj _listo_, kies rezulto signifas _tiu listo_.
 
 --------------------------------------------------------------------------------
 
 ## 2. Pronomoj
-### Precizigi sekson
-### Precizigi refleksivecon(?)
 
+Ili funkcias kiel substantivoj.
 
-### Posesive
-### Reflexivity
+> **mi** - mi, min  
+> **tu** - vi, vin  
+> **ye** - ŝi, li, ri, ĝi, ŝin, lin, rin, ĝin  
+> **mimen** - ni, nin  
+> **tumen** - vi, vin    
+> **yemen** - ili, ilin    
 
+### Precizigi sekson  
 
-## 2. Adjektivoj kaj Adverboj
+> **ye** - ŝi, li, ri, ĝi 
+> **man ye** - li  
+> **fem ye** - ŝi  
+> **xe ye** - ĝi  
+
+### Precizigi refleksivecon
+
+> **ye toca ye** - ĝi tuŝas ĝin, ĝi tuŝas sin  
+> **ye toca sa ye** - ĝi tuŝas ĝin (= ĝi tuŝas tiun ĝin)  
+> **ye toca se ye** - gi tuŝas sin (= ĝi tuŝas propran ĝin)  
+
+### Posedo
+
+La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
+
+> **mi ha panyo** - mia amiko (= mi havas amikon)  
+> **panyo he mi** - amiko de mi (= amiko estas havata de mi)
+
+--------------------------------------------------------------------------------
+
+## 3. Adjektivoj kaj Adverboj
+
+Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
+
 ### Nombroj
+
+Ili funkcias kiel adjektivoj.
+
+- 0 **nul**
+- 1 **un**
+- 2 **du**
+- 3 **sam**
+- 4 **car**
+- 5 **lim**
+- 6 **sis**
+- 7 **set**
+- 8 **bat**
+- 9 **noi**
+- 10 **un nul** aŭ **des**
+- 22 **du du** aŭ **du des du**
+- 100 **un nul nul** aŭ **hon**
+- 201 **du nul un** aŭ **du hon un**
+- 1 000 **un nul nul nul** aŭ **kilo**
+- 1 000 000 **mega** …
+- 1 000 000 000 **giga** …
 
 ## 3. Verboj
 
@@ -189,26 +238,9 @@ Numbers that are greater than 999 may use the multiples from the International S
     
 
 
-## 5. Pronouns
 
-### 5.1. Personal pronouns
 
-Pronouns can substitute thing-words and phrases of thing-words.
 
-**mi** - I, mi  
-**tu** - you  
-**ye** - he, she, it  
-**mimen** - we  
-**tumen** - you all  
-**yemen** - they
-
-**se** - self
-
-Note! The reflexive pronoun **se** is used for all persons, so it corresponds to English _myself_, _yourself_, _himself_, _herself_, _itself_, ourselves_ and _themselves_ all at once.
-
-**mi vida se** - I see myself.  
-**ye vida se** - She sees herself. / He sees himself. / It sees itself.  
-**mimen vida se.** - We see ourselves.  
 
 
 ### 5.2. Demonstrative pronouns
