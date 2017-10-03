@@ -5,25 +5,29 @@ akcento !!!!
 
 ## 0. La spirito de la lingvo
 
-Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, sed oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi paroladon per informoj evidentaj. Se kunteksto ne sufiĉas, oni precizigas.
+Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, kaj oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi esprimadon per informoj evidentaj. Se kunteksto ne sufiĉas, oni precizigas.
 
-Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la ...) estas strukture ne eblaj aŭ tre malprobablaj en Pandunia.
+Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la ...) iĝas strukture ne eblaj aŭ tre malprobablaj.
 
 ## 1. Substantivoj
 
-### 1.1 Gramatika nombro nemarkita
+Substantivoj ne ŝanĝiĝas.
 
-Nombro (singularo aŭ pluralo) ne estas markita. Ĝi estas tiu, kiu plej taŭgas kun la resto de la frazo aŭ kun la kunteksto. Tamen, oni povas precizigi ĝin, ekzemple per adjektivo.
+> **maw** - kato, katoj, la kato, la katoj, katino, katinoj, la katino, la katinoj, katiĉo, katiĉoj, la katiĉo, la katiĉoj …
+
+### 1.1 Precizigi gramatikan nombron (kiel -j)
+
+Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kunteksto. Tamen, oni povas facile precizigi per adjektivo.
 
 > **loge** - vorto, vortoj  
 > **un loge** - (unu) vorto  
 > **poli loge** - (pluraj) vortoj  
 
-### 1.2 Difina artikolo ne ekzistas
+### 1.2 Precizigi definitecon (kiel la x)
 
-Ne ekzistas difina artikolo. Tamen, la ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _tiu(j)(n)_ antaŭ substantivo, aŭ _tio(n)_.
+La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _tiu(j)(n)_ (antaŭ substantivo) aŭ _tio(n)_.
 
-> **liste** - listo, la listo  
+> **liste** - listo, la listo
 > **sa liste** - la listo (= tiu listo) 
 
 ### 1.3 Kunmetita vorto
@@ -35,6 +39,9 @@ Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita v
 --------------------------------------------------------------------------------
 
 ## 2. Pronomoj
+### Precizigi sekson
+### Precizigi refleksivecon(?)
+
 
 ### Posesive
 ### Reflexivity
