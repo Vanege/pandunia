@@ -11,11 +11,11 @@ Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca
 
 Nombro (singularo aŭ pluralo) ne estas markita. Ĝi estas tiu, kiu taŭgas kun la resto de la frazo aŭ la kunteksto. Tamen, oni povas precizigi ĝin, ekzemple per adjektivo.
 
-> **maw** - kato, katoj
-> **un maw** - (unu) kato
-> **poli maw** - (pluraj) katoj
-> **xau maw** - kelkaj katoj
-> **multi tara** - multaj katoj
+> **maw** - kato, katoj  
+> **un maw** - (unu) kato  
+> **poli maw** - (pluraj) katoj  
+> **xau maw** - kelkaj katoj  
+> **multi tara** - multaj katoj  
 
 Notu ke tiel, eraro kiel _kelka kato_ estas strukture neebla.
 
