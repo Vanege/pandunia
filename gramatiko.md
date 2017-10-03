@@ -21,16 +21,16 @@ Substantivoj ne ŝanĝiĝas.
 
 Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kunteksto. Tamen, oni povas facile precizigi per adjektivo.
 
-> **loge** - vorto, vortoj  
-> **un loge** - (unu) vorto  
-> **poli loge** - (pluraj) vortoj  
+> loge - vorto, vortoj  
+> **un** loge - (unu) vorto  
+> **poli** loge - (pluraj) vortoj  
 
 ### 1.2 Precizigi definitecon
 
 La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _(ĉi) tio(n)_ aŭ _(ĉi) tiu(j)(n)_ antaŭ substantivo.
 
 > **liste** - listo, la listo  
-> **sa liste** - la listo (= tiu listo)  
+> **sa** liste - la listo (= tiu listo)  
 
 ### 1.3 Kombinado
 
@@ -53,23 +53,23 @@ Ili funkcias kiel substantivoj.
 
 ### 2.1 Precizigi sekson  
 
-> **ye** - ŝi, li, ri, ĝi  
-> **man ye** - li  
-> **fem ye** - ŝi  
-> **xe ye** - ĝi  
+> ye - ŝi, li, ri, ĝi  
+> **man** ye - li  
+> **fem** ye - ŝi  
+> **xe** ye - ĝi  
 
 ### 2.2 Precizigi refleksivecon
 
-> **ye toca ye** - ĝi tuŝas ĝin, ĝi tuŝas sin  
-> **ye toca sa ye** - ĝi tuŝas ĝin (= ĝi tuŝas tiun ĝin)  
-> **ye toca se ye** - gi tuŝas sin (= ĝi tuŝas propran ĝin)  
+> ye toca ye - ĝi tuŝas ĝin, ĝi tuŝas sin  
+> ye toca **sa** ye - ĝi tuŝas ĝin (= ĝi tuŝas tiun ĝin)  
+> ye toca **se** ye - gi tuŝas sin (= ĝi tuŝas propran ĝin)  
 
 ### 2.3 Posedo
 
 La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
 
-> **mi ha panyo** - mia amiko (= mi havas amikon)  
-> **panyo he mi** - amiko de mi (= amiko estas havata de mi)
+> mi **ha** panyo - mia amiko (= mi havas amikon)  
+> panyo **he** mi - amiko de mi (= amiko estas havata de mi)
 
 --------------------------------------------------------------------------------
 
@@ -77,9 +77,9 @@ La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
 
 Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
 
-> **waf ha _fani_ nam.** - Hundoj havas _amuzan_ nomon.
-> **tu _sundaro_ sona.** - Vi _bele_ dormas.  
-> **tu baxa pandunia _bono_.** - Vi parolas Pandunion _bone_.
+> waf ha **fani** nam. - Hundoj havas _amuzan_ nomon.
+> tu **sundaro** sona. - Vi _bele_ dormas.  
+> tu baxa pandunia **bono**. - Vi parolas Pandunion _bone_.
 
 ### 3.1 Nombroj
 
@@ -105,19 +105,24 @@ Ili funkcias kiel adjektivoj.
 
 ### 3.2 Komparoj  
 
-> **fem si _sem_ bon _ka_ man** - Ino estas _same_ bona _kiel_ iĉo.  
-> **pandunia si _max_ bon _ka_ englix** - Pandunio estas _pli_ bona _ol_ la Angla.  
-> **munkin pandunia si _maxim_ izi** - Eble Pandunio estas _la plej_ facila.  
-> **mi kar _min_ multo _ka_ mi loga** - Mi faras _malpli_ multe _ol_ mi diras.  
-> **mi yem akol _minim_ multo** - Mi konsumas alkoholon _malplej_ multe.  
+> fem si **sem** bon **ka** man - Ino estas **same** bona **kiel** iĉo.  
+> pandunia si **max** bon **ka** englix - Pandunio estas **pli** bona **ol** la Angla.  
+> munkin pandunia si **maxim** izi - Eble Pandunio estas **(la) plej** facila.  
+> mi kar **min** multo **ka** mi loga** - Mi faras **malpli** multe **ol** mi diras.  
+> mi yem akol **minim** multo - Mi konsumas alkoholon **malplej** multe.  
 
 --------------------------------------------------------------------------------
 
 ## 4. "Korelativoj"
 
-Pandunia ne havas korelativojn, sed oni povas facile rekrei iliajn signifojn per kombinado. La montra substantivo estas _sa_, kaj la demanda substantivo estas _ke_. Eblas uzi _unu_ kiel _i
+Pandunia ne havas korelativojn, sed oni povas facile rekrei iliajn signifojn per kombinado. La montra substantivo estas _sa_, kaj la demanda substantivo estas _ke_.
 
-### Precizigi
+> **sa** - tio(n), tiu(j)(n), ĉi tio(n), ĉi tiu(j)(n), tiam, ĉi tiam, tia(j)(n), ĉi tia(j)(n) …
+> **ka** - kio(n), kiu(j)(n), kiam, kia(j)(n), kiel, kiom, kial …
+
+### Precizigi tipon
+> **sa** - 
+
 
 ### 4.1 Montra substantivo: sa
 
