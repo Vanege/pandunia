@@ -13,7 +13,7 @@ Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nive
 
 ## 1. Substantivoj
 
-Substantivoj ne ŝanĝiĝas.
+Substantivoj ne ŝanĝiĝas. Ili ne estas devigaj se evidentaj, sed forigi ilin ne estas rekomendate por komencantoj.
 
 > **maw** - kato, katoj, la kato, la katoj, katino, katinoj, la katino, la katinoj, katiĉo, katiĉoj, la katiĉo, la katiĉoj …
 
@@ -167,9 +167,16 @@ Noto: jes = estas = troviĝas
 
 ### Ekzemplo de yem por manĝi, trinki, drinki, kie kunteksto sufiĉas por esti evidenta
 
+### Tempoj (tri niveloj de precizeco)
+
+### Causative?
+Vi ĝustas
+Mi ĝustas (korektas) vin
+(Sube, vi lernos kiel precizigi la causativecon)
+
 ### Aktiva kaj Pasiva formo de verboj
 
-### 6.1 Ekzemplo: Posedo/Rilato
+### Posedo/Rilato
 
 La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
 
@@ -182,13 +189,35 @@ La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
 
 ### Oni ĉiam analizu de maldekstre al dekstre
 
+### Ekzemploj (diras, pensas, volas, devas, kredas ...)
 
-## 8. Finaĵoj
+
+
+Mi pensas ke vi pravas.
+Mi vidas **, ke** vi skribas. = Mi vidas "vi skribas"
+Mi vidas **tion, kion** vi skribas = Mi vidas tion skribatan de vi
+
+Vi diras, ke vi volas ĉion
+Vi diras ĉion, kion vi volas
+
+
+Ĝi manĝas kiel porko manĝas.
+
+Kiam frazo havas du 
+Oni povas precizigi voĉe per tono, skribe per , (por krei du partojn)
+Oni preferu fari etajn frazojn kun malmultaj verboj.
+Eblas dividi longan frazon en du etajn frazojn, menciante antaŭan elementon per "sa x"
+
+## 8. Prepozicioj
+
+Pensu "na" kiel "je"
+
+## 9. Finaĵoj
+
+Je tiu punkto, vi jam povas uzi la vortaron kaj kunmetadon por skribi en Pandunia. Tamen, Pandunia havas finaĵojn kiuj malaltigas la kvanton de vortoj lernendaj.
 
 Normalaj vortoj en Pandunia apartenas al unu el kvin grupoj: substantivo, adjektivo, adverbo, verbo, prepozicio
 ### Kiel krei vorton por alia grupo (krom prepozicio)
-
-## 9. Prepozicioj
 
 
 ## 10. Liberaj sufiksoj
