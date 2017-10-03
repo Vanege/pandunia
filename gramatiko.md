@@ -9,6 +9,8 @@ Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca
 
 Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la …) iĝas strukture ne eblaj aŭ tre malprobablaj.
 
+--------------------------------------------------------------------------------
+
 ## 1. Substantivoj
 
 Substantivoj ne ŝanĝiĝas.
@@ -25,18 +27,16 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 
 ### 1.2 Precizigi definitecon
 
-La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _tio(n)_ aŭ _tiu(j)(n)_ antaŭ substantivo.
+La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _(ĉi) tio(n)_ aŭ _(ĉi) tiu(j)(n)_ antaŭ substantivo.
 
 > **liste** - listo, la listo  
 > **sa liste** - la listo (= tiu listo)  
 
-### 1.3 Kunmetita vorto
+### 1.3 Kombinado
 
-Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita vorto. La dekstra substantivo donas la naturon de la kunmetaĵo.
+Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita vorto. La dekstra substantivo donas la naturon de la kombinado.
 
 > **loge liste** - vortaro (= vortlisto)  
-
-Noto: _sa liste_ fakte estas kombinaĵo de la substantivoj _tio_ kaj _listo_, kies rezulto signifas _tiu listo_.
 
 --------------------------------------------------------------------------------
 
@@ -51,20 +51,20 @@ Ili funkcias kiel substantivoj.
 > **tumen** - vi, vin  
 > **yemen** - ili, ilin    
 
-### Precizigi sekson  
+### 2.1 Precizigi sekson  
 
 > **ye** - ŝi, li, ri, ĝi  
 > **man ye** - li  
 > **fem ye** - ŝi  
 > **xe ye** - ĝi  
 
-### Precizigi refleksivecon
+### 2.2 Precizigi refleksivecon
 
 > **ye toca ye** - ĝi tuŝas ĝin, ĝi tuŝas sin  
 > **ye toca sa ye** - ĝi tuŝas ĝin (= ĝi tuŝas tiun ĝin)  
 > **ye toca se ye** - gi tuŝas sin (= ĝi tuŝas propran ĝin)  
 
-### Posedo
+### 2.3 Posedo
 
 La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
 
@@ -77,7 +77,11 @@ La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
 
 Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
 
-### Nombroj
+> **waf ha _fani_ nam.** - Hundoj havas _amuzan_ nomon.
+> **tu _sundaro_ sona.** - Vi _bele_ dormas.  
+> **tu baxa pandunia _bono_.** - Vi parolas Pandunion _bone_.
+
+### 3.1 Nombroj
 
 Ili funkcias kiel adjektivoj.
 
@@ -92,153 +96,46 @@ Ili funkcias kiel adjektivoj.
 > **bat** - 8  
 > **noi** - 9  
 > **un nul** aŭ **des** - 10  
-> **du du** aŭ **du des du** - 22
-> **un nul nul** aŭ **hon** - 100
-> **du nul un** aŭ **du hon un** - 201
-> **un nul nul nul** aŭ **kilo** - 1 000
+> **du du** aŭ **du des du** - 22  
+> **un nul nul** aŭ **hon** - 100  
+> **du nul un** aŭ **du hon un** - 201  
+> **un nul nul nul** aŭ **kilo** - 1 000  
 > **mega** … - 1 000 000  
 > **giga** … - 1 000 000 000  
 
-## 3. Verboj
+## 3.2 Komparoj  
 
-## 4. Finaĵoj
-
-
---------------------------------------------------------------------------------
-
-## 3. Modifiers
-
-A modifier is a word that adds some quality or description to the thing denoted by another word, ex. good, bad, big, fast.
-
-### 3.1. Adjectives
-
-#### 3.1.1. General
-
-An adjective is a word that adds a particular quality for a noun. In Pandunia adjectives are usually before the noun that they modify.
-
-> **day batu** - big stone
-> **day meza** - big table  
-> **alti meza** - high table
-> **bon kursi** - good chair
-
-Adjectives can be also after the noun.
-
-> **batu day.** - stone big  
-> **meza alti.** - table high
-
-Naturally there can be modifiers on both sides of the noun as well.
-
-> **day meza alti** - big table high
-
-
-#### 3.1.3. Adjective endings
-
-Adjectives end in **-i** by default. The ending is used always with words that are derived from action roots and thing roots. Ex. **logi** _spoken_, **suki** _pleasant_, **kitabi** _written_.
-
-The ending is not applied to description roots that end in a single consonant that is easy to pronounce. Ex. **bon** _good_, **sundar** _beautiful_.
-
-Some suffixes are also adjectival by default. These include **-al**. Ex. **social** _societal_.
-
-
-
-### 3.2 Adverbs
-
-An adverb is a word that modifies a verb, an adjective or another adverb.
-
-Adverbs of manner are next to the verb or at the end of the sentence.
-
-> **mi _bono_ sona.** - I well sleep.  
-> **mi sona _bono_.** - I sleep _well_.  
-> **tu baxa pandunia _bono_.** - You speak Pandunia _well_.
-
-
-#### 3.2.2. Adverb ending
-
-Adverbs of manner end in **-o**: **bono** _well_, **sundaro** _beautifully_.
-
-
-### 3.3. Comparison
-
-Both adjectives and adverbs can be compared.
-
-- **max** (more) indicates comparison of superiority
-- **maxim** (most) indicates the superlative of superiority
-- **min** (less) indicates comparison of inferiority
-- **minim** (least) indicates the superlative of inferiority
-- **sem** (as) indicates the comparison of equality
-
-Particle **ka** relates the adverbs of comparison to the point of comparison.
-
-> **mi si max bon ka tu.** - I am better than you.  
-> **tu loga sem bono ka mi.** - You speak as well as mi.
-
+> **fem si _sem_ bon _ka_ man** - Ino estas _same_ bona _kiel_ iĉo.  
+> **pandunia si _max_ bon _ka_ englix** - Pandunio estas _pli_ bona _ol_ la Angla.  
+> **munkin pandunia si _maxim_ izi** - Eble Pandunio estas _la plej_ facila.  
+> **mi kar _min_ multo _ka_ mi loga** - Mi faras _malpli_ multe _ol_ mi diras.  
+> **mi yem akol minim multo** - Mi konsumas alkoholon _malplej_ multe.  
 
 --------------------------------------------------------------------------------
 
-## 4. Numerals
+### 4. "Korelativoj"
 
-Sometimes it is known from the context how many objects are spoken about. For example, the word **surya** (sun) normally refers to just one sun because there is only one.
+Pandunia ne havas korelativojn, sed oni povas facile rekrei iliajn signifojn per kombinado. La montra substantivo estas _sa_, kaj la demanda substantivo estas _ke_. Eblas uzi _unu_ kiel _i
 
-Quantity can be expressed with numerals and other quantity-words. They are put before the word or phrase that they qualify.
+# Precizigi
 
-> **un tara** - one star  
-> **du tara** - two stars  
-> **sam tara** - three stars
-> **poli tara** - several stars (two or more)
-> **xau tara** - few stars
-> **multi tara** - many stars
-
-> **un dai meza** - one big table  
-> **du dai kursi** - two big chairs  
-> **sem bon kursi** - three good chairs
-
-Ordinal numbers come after the word that they modify.
-
-> **fen un** - the first part (part one)
-> **fen du** - the second part (part two)
-> **fen sam** - the third part (part three)
-
-The basic number words are:
-
-- 0 **nul**
-- 1 **un**
-- 2 **du**
-- 3 **sam**
-- 4 **car**
-- 5 **lim**
-- 6 **sis**
-- 7 **set**
-- 8 **bat**
-- 9 **noi**
-
-Greater numbers are simply made by putting one digit after another – exactly like they are written in the universal numerical language of mathematics.
-
-- 10 **un nul** or **des**
-- 11 **un un**
-- 12 **un du**
-- 13 **un sam**
-- 20 **du nul**
-- 21 **du un**
-- 22 **du du**
-- 100 **un nul nul** or **hon**
-- 101 **un nul un** or **hon un**
-- 200 **du nul nul** or **du hon**
-
-
-Numbers that are greater than 999 may use the multiples from the International System of Units. So for example kilo denotes a multiple of a thousand.
-
-- 1000 **kilo**
-- 1 000 000 **mega**
-- 1 000 000 000 **giga**
-- 1 000 000 000 000 **tera**
-- 10<sup>15</sup> **peta**
-- 10<sup>18</sup> **eksa**
-- 10<sup>21</sup> **zeta**
-- 10<sup>24</sup> **yota**
-    
+## 4.1 Montra substantivo: sa
 
 
 
+
+Noto: _sa liste_ fakte estas kombinaĵo de la substantivoj _tio_ kaj _listo_, kies rezulto signifas _tiu listo_.
+
+Noto: oni povas fari ĉu-demandoj per _kia_
+>
+> jes  
+> ne  
+
+
+## 4.2 Demanda substantivo: ke
+
+
+## 4.3 Por helpi Esperantistojn
 
 
 
@@ -272,6 +169,11 @@ The demonstrative pronouns work like modifiers.
 > **ke koz?** - Why? (What cause?)  
 
 --------------------------------------------------------------------------------
+
+
+
+
+
 
 ## 6. Verbs
 
