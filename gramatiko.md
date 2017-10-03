@@ -7,7 +7,7 @@ akcento !!!!
 
 Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, kaj oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi esprimadon per informoj evidentaj. Se kunteksto ne sufiĉas, oni precizigas.
 
-Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la …) iĝas strukture ne eblaj aŭ tre malprobablaj.
+Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la …) iĝas strukture nefareblaj aŭ tre malprobablaj.
 
 --------------------------------------------------------------------------------
 
@@ -29,18 +29,42 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 
 La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _(ĉi) tio(n)_ aŭ _(ĉi) tiu(j)(n)_ antaŭ substantivo.
 
-> **liste** - listo, la listo  
+> liste - listo, la listo  
 > **sa** liste - la listo (= tiu listo)  
 
 ### 1.3 Kombinado
 
 Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita vorto. La dekstra substantivo donas la naturon de la kombinado.
 
-> **loge liste** - vortaro (= vortlisto)  
+> **loge liste** - vortaro (= vort-listo)  
+> **pandunia jen** - panduniisto (= panduni-ulo)  
+
+### 1.4 Nombroj
+
+> **nul** - 0  
+> **un** - 1  
+> **du** - 2  
+> **sam** - 3  
+> **car** - 4  
+> **lim** - 5  
+> **sis** - 6  
+> **set** - 7  
+> **bat** - 8  
+> **noi** - 9  
+> **un nul** aŭ **des** - 10  
+> **du du** aŭ **du des du** - 22  
+> **un nul nul** aŭ **hon** - 100  
+> **du nul un** aŭ **du hon un** - 201  
+> **un nul nul nul** aŭ **kilo** - 1 000  
+> **mega** … - 1 000 000  
+> **giga** … - 1 000 000 000  
+
+> **du mes** - du monatoj (= du-monato)  
+> **mes du** - februaro  
 
 --------------------------------------------------------------------------------
 
-## 2. Pronomoj
+## 2. Personaj pronomoj
 
 Ili funkcias kiel substantivoj.
 
@@ -64,67 +88,116 @@ Ili funkcias kiel substantivoj.
 > ye toca **sa** ye - ĝi tuŝas ĝin (= ĝi tuŝas tiun ĝin)  
 > ye toca **se** ye - gi tuŝas sin (= ĝi tuŝas propran ĝin)  
 
-### 2.3 Posedo
+--------------------------------------------------------------------------------
+
+## 3. Adjektivoj kaj adverboj
+
+Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
+
+> waf ha **fani** nam. - Hundoj havas _amuzan_ nomon.  
+> tu **sundaro** sona. - Vi _bele_ dormas.  
+> tu baxa pandunia **bono**. - Vi parolas Pandunion _bone_.  
+
+### 3.1 Komparoj  
+
+> fem si **sem** bon **ka** man - Ino estas _same_ bona _kiel_ iĉo.  
+> pandunia si **max** bon **ka** englix - Pandunio estas _pli_ bona _ol_ la Angla.  
+> munkin pandunia si **maxim** izi - Eble Pandunio estas _(la) plej_ facila.  
+> mi kar **min** multo **ka** mi loga** - Mi faras _malpli_ multe _ol_ mi diras.  
+> mi yem akol **minim** multo - Mi konsumas alkoholon _malplej_ multe.  
+
+--------------------------------------------------------------------------------
+
+## 4. "Tabelvortoj"
+
+Pandunia ne havas tabelvortojn, sed oni povas facile rekrei ilin (kaj pliajn) per libera kombinado de substantivo kun substantivo, aŭ per adjektivo kun substantivo.
+
+> **sa** - tio(n), tiu(j)(n), ĉi tio(n), ĉi tiu(j)(n), tiam, ĉi tiam, tia(j)(n), ĉi tia(j)(n) …  
+> **ke** - kio(n), kiu(j)(n), kiam, kia(j)(n), kiel, kiom, kial …  
+
+### 4.1 Precizigi proksimecon lokan, tempan aŭ teman
+> sa - tio, ĉi tio  
+> **jin** sa - ĉi tio (= proksima tio)  
+> **far** sa - tio (= fora tio)  
+
+### 4.2 Precizigi tipon
+> ke - kio, kiu, kia, kie, kiam, kial, kiel, kiom  
+> ke **xe** - kiu afero (= kio)  
+> ke **jen** - kiu homo (= kiu (ofte))  
+> ke **yang** - kiu tipo (= kia aŭ kiel)  
+> ke **lok** - kiu loko (= kie)  
+> ke **sat** - kiu momento (= kiam)  
+> ke **koz** - kiu kaŭzo/rezono (= kial)  
+> ke **metod** - kiu metodo (= kiel (ofte))  
+> ke **numer** - kiu nombro (= kiom)  
+
+> jin sa lok - ĉi tie
+
+Notu ke eblas krei ajnan korelativon tiel:
+
+> un lok - ie  
+> nul lok - nenie  
+> multi lok - multloke  
+> mei lok - ĉie (= ĉiuloke)  
+> pitsa lok - pic-loke  
+
+--------------------------------------------------------------------------------
+
+## 5. Demandoj kaj respondoj
+
+Demandi pri afero
+
+Demandi pri vereco
+
+Respondi pri afero
+
+Respondi pri vereco
+
+
+
+_ke_ estas la demanda substantivo. Kiam oni uzas ĝin, oni faras demandon pri aĵo. _kia_ estas la nedeviga demanda 
+
+-kia- estas nedeviga, sed se oni ne uzas ĝin, utilas skribi "?" aŭ uzi demandan tonon
+
+- diri jes kaj ne
+Noto: jes = estas = troviĝas
+
+
+## 6. Verboj
+
+### Ekzemplo de yem por manĝi, trinki, drinki, kie kunteksto sufiĉas por esti evidenta
+
+### Aktiva kaj Pasiva formo de verboj
+
+### 6.1 Ekzemplo: Posedo/Rilato
 
 La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
 
 > mi **ha** panyo - mia amiko (= mi havas amikon)  
-> panyo **he** mi - amiko de mi (= amiko estas havata de mi)
-
---------------------------------------------------------------------------------
-
-## 3. Adjektivoj kaj Adverboj
-
-Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
-
-> waf ha **fani** nam. - Hundoj havas _amuzan_ nomon.
-> tu **sundaro** sona. - Vi _bele_ dormas.  
-> tu baxa pandunia **bono**. - Vi parolas Pandunion _bone_.
-
-### 3.1 Nombroj
-
-Ili funkcias kiel adjektivoj.
-
-> **nul** - 0  
-> **un** - 1  
-> **du** - 2  
-> **sam** - 3  
-> **car** - 4  
-> **lim** - 5  
-> **sis** - 6  
-> **set** - 7  
-> **bat** - 8  
-> **noi** - 9  
-> **un nul** aŭ **des** - 10  
-> **du du** aŭ **du des du** - 22  
-> **un nul nul** aŭ **hon** - 100  
-> **du nul un** aŭ **du hon un** - 201  
-> **un nul nul nul** aŭ **kilo** - 1 000  
-> **mega** … - 1 000 000  
-> **giga** … - 1 000 000 000  
-
-### 3.2 Komparoj  
-
-> fem si **sem** bon **ka** man - Ino estas **same** bona **kiel** iĉo.  
-> pandunia si **max** bon **ka** englix - Pandunio estas **pli** bona **ol** la Angla.  
-> munkin pandunia si **maxim** izi - Eble Pandunio estas **(la) plej** facila.  
-> mi kar **min** multo **ka** mi loga** - Mi faras **malpli** multe **ol** mi diras.  
-> mi yem akol **minim** multo - Mi konsumas alkoholon **malplej** multe.  
-
---------------------------------------------------------------------------------
-
-## 4. "Korelativoj"
-
-Pandunia ne havas korelativojn, sed oni povas facile rekrei iliajn signifojn per kombinado. La montra substantivo estas _sa_, kaj la demanda substantivo estas _ke_.
-
-> **sa** - tio(n), tiu(j)(n), ĉi tio(n), ĉi tiu(j)(n), tiam, ĉi tiam, tia(j)(n), ĉi tia(j)(n) …
-> **ka** - kio(n), kiu(j)(n), kiam, kia(j)(n), kiel, kiom, kial …
-
-### Precizigi tipon
-> **sa** - 
+> panyo **he** mi - amiko de mi (= amiko estas havata de mi)  
 
 
-### 4.1 Montra substantivo: sa
+
+## 7. Pivota strukturo
+
+### Oni ĉiam analizu de maldekstre al dekstre
+
+
+## 8. Finaĵoj
+
+Normalaj vortoj en Pandunia apartenas al unu el kvin grupoj: substantivo, adjektivo, adverbo, verbo, prepozicio
+### Kiel krei vorton por alia grupo (krom prepozicio)
+
+## 9. Prepozicioj
+
+
+## 10. Liberaj sufiksoj
+
+
+
+
+
+
 
 
 
