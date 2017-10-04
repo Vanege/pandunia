@@ -7,7 +7,7 @@ akcento !!!!
 
 Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, kaj oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi esprimadon per informoj evidentaj. Se kunteksto ne sufiĉas, oni precizigas.
 
-Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la …) iĝas strukture nefareblaj aŭ tre malprobablaj.
+Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo, sed oni ĉiam povas precizigi per adjektivo aŭ adverbo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la …) iĝas strukture nefareblaj aŭ tre malprobablaj.
 
 --------------------------------------------------------------------------------
 
@@ -84,9 +84,9 @@ Ili funkcias kiel substantivoj.
 
 ### 2.2 Precizigi refleksivecon
 
-> ye toca ye - ĝi tuŝas ĝin, ĝi tuŝas sin  
-> ye toca **sa** ye - ĝi tuŝas ĝin (= ĝi tuŝas tiun ĝin)  
-> ye toca **se** ye - gi tuŝas sin (= ĝi tuŝas propran ĝin)  
+> ye toca ye - Ĝi tuŝas ĝin, Ĝi tuŝas sin  
+> ye toca **sa** ye - Ĝi tuŝas ĝin (= Ĝi tuŝas tiun ĝin)  
+> ye toca **se** ye - Ĝi tuŝas sin (= Ĝi tuŝas propran ĝin)  
 
 --------------------------------------------------------------------------------
 
@@ -94,9 +94,9 @@ Ili funkcias kiel substantivoj.
 
 Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
 
-> waf ha **fani** nam. - Hundoj havas _amuzan_ nomon.  
-> tu **sundaro** sona. - Vi _bele_ dormas.  
-> tu baxa pandunia **bono**. - Vi parolas Pandunion _bone_.  
+> waf ha **fani** nam. - Hundoj havas **amuzan** nomon.  
+> tu **sundaro** sona. - Vi **bele** dormas.  
+> tu baxa pandunia **bono**. - Vi parolas Pandunion **bone**.  
 
 ### 3.1 Komparoj  
 
@@ -145,27 +145,79 @@ Notu ke eblas krei ajnan korelativon tiel:
 
 ## 5. Demandoj kaj respondoj
 
-Demandi pri afero
+## 5.1 Demandoj
 
-Demandi pri vereco
+_ke_ indikas demandon pri afero. _kia_ nedevige indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
 
-Respondi pri afero
+> tumen kar **ke**? - Vi faras **kion**? (= Kion vi ĉiuj faras?)  
+> tu yem **ke pingo**? - Vi manĝis **kiun pomon**? (= Kiun pomon vi manĝis?)  
 
-Respondi pri vereco
+> (**kia**) waf yem maw? - (**Ĉu**) hundoj manĝas katojn?  
 
+## 5.2 Respondoj
 
+> wang - flava
+> sa si wang - tio estas (la) flava  
+> sa pingo si wang pingo - tiu pomo estas (la) flava pomo
 
-_ke_ estas la demanda substantivo. Kiam oni uzas ĝin, oni faras demandon pri aĵo. _kia_ estas la nedeviga demanda 
+> **si** - jes  
+> **no** - ne  
+> waf **si** yem maw - hundoj **ja** manĝas katojn  
+> waf **no** yem maw - hundoj **ne** manĝas katojn  
 
--kia- estas nedeviga, sed se oni ne uzas ĝin, utilas skribi "?" aŭ uzi demandan tonon
+_si_ estas aparta vorto. Ĝi funkcias kiel pozitiva adverbo antaŭ verbo, sed ankaŭ kiel la verbo "esti/ekzisti".
 
-- diri jes kaj ne
-Noto: jes = estas = troviĝas
-
+--------------------------------------------------------------------------------
 
 ## 6. Verboj
 
-### Ekzemplo de yem por manĝi, trinki, drinki, kie kunteksto sufiĉas por esti evidenta
+Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas dekstre de verbo. La dekstra parto ne estas deviga. Oni legas kaj komprenas de maldekstre al dekstre.
+
+> mi **vol** panyo - Mi volas amikon  
+> mi **darsa** loge - Mi lernas vorton  
+> pando **suku** pandunia - Pandoj ŝatas Pandunia
+
+> mi yem pan - Mi manĝas panon (= Mi konsumas panon)  
+> tu yem su - Vi trinkas akvon (= Vi konsumas akvon)  
+> ye yem alkol - Li drinkas akoholon (= Li konsumas alkoholon)   
+
+### 6.1 Precizigi tempon
+
+> loga - diris, diras, diros, ĵus diris, baldaŭ diros, …
+> **gon** loga - diris (= **antaŭe** diris)  
+> **nun** loga - diras (= **nun** diras)  
+> **futur** loga - diros (= **poste** diros)  
+> gang loga - ĵus diris  
+> sun loga - baldaŭ diros  
+
+### 6.2 Precizigi modon
+
+> loga - diras, dirus, diru, …  
+> **munkin** loga - dirus (= **eble** diras)  
+> **muso** loga - diru (= **deve** diras)  
+
+> mus - devas, devus, devu, …  
+> munkin gon mus -  eble devis, devintus (= estus devinta)  
+
+### 6.3 Precizigi transitivecon
+
+> tika - ĝusti, korekti (= ĝustigi)  
+> mi tika - mi ĝustas  
+> mi tika tu - mi korektas vin (= mi ĝustigas vin)  
+> mi tika xe - mi korektas aferon (= mi ĝustigas aferon)  
+
+Ekzistas sufikso por precizigi -ig- sen bezoni objekton, tamen ofte samfacilas uzi _xe_ kiel objekton.
+
+### 6.3 "Aktiva kaj pasiva voĉo"
+
+Verboj havas du formojn: la -a formo kaj la -u formo.
+
+Tamen, oni povas daŭre konsideri ke la lingvo ĉiam estas SVO kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas konsideri "suku" kaj "suka" kiel apartajn verbojn.
+
+
+
+
+### 6.4 Utila ekzemplo: havi / rilati al
 
 ### Tempoj (tri niveloj de precizeco)
 
