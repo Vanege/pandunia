@@ -249,13 +249,13 @@ Se estas risko de miskompreno, eblas evidentigi la objekton de verbo voĉe per l
 
 > tu loga jumle. mi kar sa jumle. - Vi diras frazon. Mi faris tiun frazon.
 
-## 7.1 "ke-subfrazoj"
+### 7.1 "ke-subfrazoj"
 
 En Esperanto, subfrazo per ke kutime havas tiun strukturon: S V ke, S V. Tiam oni rapide povas traduki forigante _, ke_.
 
 > mi vola tu yema - Mi volas **, ke** vi manĝu  
 
-## 7.2 "ki--subfrazoj"
+### 7.2 "ki--subfrazoj"
 
 En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. Tiam oni povas traduki (1) forigante la korelativojn (2) aldonante _sa_ (3) ŝanĝante a-verbo al u-verbo aŭ inverse (4) metante la malnovan subjekton kiel objekton.
 
@@ -310,7 +310,7 @@ Pandunia povus esti pli simpla foriginte la alineojn 10 kaj 11, tamen la lingvo 
 Kiel konsulti la vortaron.
 
 
-## 11. Aldonaj sufiksoj
+## 11. Sufiksoj
 
 (nuntempe, uzi ilin estas malpopulare (krom -ul, sed eble tio venas de mankoj en la vortaro)
 
