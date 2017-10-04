@@ -1,9 +1,7 @@
 Gramatiko
 =======
 
-akcento !!!!
-
-## 0. La spirito de la lingvo
+## 0. Lingva spirito
 
 Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, kaj oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi esprimadon per informoj evidentaj. Se kunteksto ne sufiĉas, oni precizigas.
 
@@ -147,7 +145,7 @@ Notu ke eblas krei ajnan korelativon tiel:
 
 ### 5.1 Demandoj
 
-_ke_ indikas demandon pri afero. _kia_ nedevige indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
+La vorto _ke_ indikas demandon pri afero. La vorto _kia_ (la verbo "demandi") nedevige indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
 
 > tumen kar **ke**? - Vi faras **kion**? (= Kion vi ĉiuj faras?)  
 > tu yem **ke pingo**? - Vi manĝis **kiun pomon**? (= Kiun pomon vi manĝis?)  
@@ -224,7 +222,7 @@ Verboj havas du formojn: la a-formo kaj la u-formo. Por u-verbo, la subjekto est
 > buk doku - libro estas legata (= libro legiĝas)  
 > buk doku mi - libro estas legata de mi  
 
-Tamen, oni povas daŭre konsideri ke la lingvo ĉiam estas SVO kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas vidi _suku_ kaj _suka_ kiel apartajn verbojn.
+Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Verbo-Objekto kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas vidi _suku_ kaj _suka_ kiel apartajn verbojn.
 
 ### 6.5 Utila ekzemplo: ha kaj hu
 
@@ -240,56 +238,77 @@ Tamen, oni povas daŭre konsideri ke la lingvo ĉiam estas SVO kaj ke verboj nen
 
 Objekto de unua verbo povas esti subjekto de dua verbo.
 
-## 7.1 "ki--subfrazoj"
+> mi **vola** mi **yema** kek - Mi **volas**, ke mi **manĝu** kukon (= Mi volas "mi manĝas kukon")  
+> mi **pensa** tu **darsa** bono - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
+> ye **doka** buk **kitabu** mi - Li **legas** libron, kiun **skribis** mi  
+> tu **loga** jumle **karu** mi - Vi **diras** frazon, kiun **faris** mi  
 
-En Esperanto:
-Mi volas (tion), kion vi manĝas.
-Tiu strukturo estas S V O, O S V
+Plej ofte, ĉio kio troviĝas dekstre de verbo estas la objekto de tiu verbo, sed kelkfoje nur la unua posta substantivo estas la objekto. Tamen, ne ekzistas granda diferenco inter "Mi volas min, kiu manĝas kukon" (mi volas **mi** yem kek) kaj "Mi volas, ke mi manĝu kukon" (mi volas **mi yem kem**). Niaj provadoj en Telegram ne montris veran problemon.
 
-En Pandunia:
-mi vola sa yemu tu. (= mi volas tion manĝatan de vi)
-Tiu strukturo estas S V O/S V O
+Se estas risko de miskompreno, eblas evidentigi la objekton de verbo voĉe per laŭteco, aŭ skribe per signoj " aŭ ,. Ni ĉiuokaze rekomendas fari mallongajn frazojn, kun malmultaj verboj. Eblas mencii substantivon de lasta frazo per "sa".
 
-## 7.2 "ke-subfrazoj"
+> tu loga jumle. mi kar sa jumle. - Vi diras frazon. Mi faris tiun frazon.
 
+## 7.1 "ke-subfrazoj"
 
-En Esperanto:
-Mi volas (tion), ke vi manĝas .
-Tiu strukturo estas S V (S V)
+En Esperanto, subfrazo per ke kutime havas tiun strukturon: S V ke, S V. Tiam oni rapide povas traduki forigante _, ke_.
 
+> mi vola tu yema - Mi volas **, ke** vi manĝu  
 
-Oni legas kaj komprenas de maldekstre al dekstre.
+## 7.2 "ki--subfrazoj"
 
-### Oni ĉiam analizu de maldekstre al dekstre
+En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. Tiam oni povas traduki (1) forigante la korelativojn (2) aldonante _sa_ (3) ŝanĝante a-verbo al u-verbo aŭ inverse (4) metante la malnovan subjekton kiel objekton.
 
-### Ekzemploj (diras, pensas, volas, devas, kredas ...)
+> mi vola **sa** yemu tu - Mi volas **(tion), kion** vi manĝas  
+> mi vola **sa pingo** yemu tu - Mi volas **(tiun pomon), kiun pomon** vi manĝas  
 
-
-
-Mi pensas ke vi pravas.
-Mi vidas **, ke** vi skribas. = Mi vidas "vi skribas"
-Mi vidas **tion, kion** vi skribas = Mi vidas tion skribatan de vi
-
-Vi diras, ke vi volas ĉion
-Vi diras ĉion, kion vi volas
-
-
-Ĝi manĝas kiel porko manĝas.
-
-Kiam frazo havas du 
-Oni povas precizigi voĉe per tono, skribe per , (por krei du partojn)
-Oni preferu fari etajn frazojn kun malmultaj verboj.
-Eblas dividi longan frazon en du etajn frazojn, menciante antaŭan elementon per "sa x"
+--------------------------------------------------------------------------------
 
 ## 8. Prepozicioj
 
+### 8.1 Puraj prepozicioj
+
+**ze** esprimas ideon de elmovo loka, tempa, kaŭza, tema …  
+**na** esprimas ideon de ĉeesto, proksimeco, …  
+**do** esprimas ideon de almovo loka, tempa, kaŭza, tema …  
+**bi** esprimas ideon de akompano  
+
+> ze -
+> na -
+> do - 
+> bi - kun, per
+
+### 8.2 Precizigi (por fari tiujn de Esperanto)
+
+
+###
+
+
+
 Pensu "na" kiel "je"
 
+
+
+Noto 1: Por posedo de eco, la vortoj "ge" kiel "ha", kaj "de" kiel "hu", ankaŭ estas uzataj nun. Nun estas provo vidi ĉu oni konservu ilin pro utila poseda precizeco, aŭ ĉu ni forigu ilin kaj ŝanĝu la elparolon de "ha" kaj "hu".
+
+Noto 2: En pli malnova versio de Pandunia, "bi" ne ekzistis. Ni diris "kun" per "na grup de" kaj "per" per "na tul de". Ne surpriziĝu se vi vidas iun uzi "na" anstataŭ "bi". Tio eblas.
+
 ## 9. Konjunkcioj(?)
+i
+u
+ama (sed, tamen)
+jadi (se, ĉu (whether))
+to (do)
 
 ## 10. Finaĵoj
 
 Je tiu punkto, vi jam povas uzi la vortaron kaj kunmetadon por skribi en Pandunia. Tamen, Pandunia havas finaĵojn kiuj malaltigas la kvanton de vortoj lernendaj.
+
+Pandunia povus esti pli simpla foriginte la alineojn 10 kaj 11, tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso).
+
+
+Kiel konsulti la vortaron.
+
 
 ## 11. Aldonaj sufiksoj
 
@@ -308,457 +327,6 @@ Novaj sufiksoj povas aperi de la komunumo se ili montriĝas oportunaj kaj ne mal
 
 
 
-
-
-
-Noto: _sa liste_ fakte estas kombinaĵo de la substantivoj _tio_ kaj _listo_, kies rezulto signifas _tiu listo_.
-
-Noto: oni povas fari ĉu-demandoj per _kia_
->
-> jes  
-> ne  
-
-
-### 4.2 Demanda substantivo: ke
-
-
-### 4.3 Por helpi Esperantistojn
-
-
-
-
-### 5.2. Demonstrative pronouns
-
-**Sa** is the general demonstrative pronoun. It covers the meaning of both _this_ and _that_.
-
-The distance to the speaker can be specified by adding words **jin** (near) and **far** (far), if needed.
-
-**sa** - this or that  
-**sa jin** - this over here  
-**sa far** - that over there  
-
-The demonstrative pronouns work like modifiers.
-
-> **sa batu.** - That stone  
-> **sa si batu.** - That is a stone.  
-> **sa batu cung.** - That stone is heavy.  
-
-
-### 5.3. Interrogative pronoun
-
-**Ke** is a general-purpose interrogative pronoun. It does the job of English words _who, what_ and _which_.
-
-> **ke?** - Who or what?  
-> **ke xe?** - What? (Which thing?)  
-> **ke jen?** - Who? (Which person?)  
-> **ke sat?** - When? (What time?)  
-> **ke yang?** - How? (What manner?)  
-> **ke koz?** - Why? (What cause?)  
-
---------------------------------------------------------------------------------
-
-
-
-
-
-
-## 6. Verbs
-
-#### 6.1. General
-
-A verb denotes an action or an occurence, ex. to eat, to speak, to look and to think.
-
-Pandunia has two types of verb: verbs that end in **-a** and verbs that end in **-u**. The endings decide the order of the other constituents (subject and object) in the sentence. So the sentence structure depends on the type of the verb.
-
-#### 6.2. Verbs that end in -a
-
-Verbs that end in **-a** use this triangular pattern.
-
-    Word order triangle for verbs that end in -a
-    
-      V
-     ↗ ↘
-    S ← O
-
-#### 6.2.1. SVO order
-
-The most common word order in Pandunia is subject-verb-object (SVO). In this sentence structure the subject comes first, the verb second, and the object third.
-
-    subject-verb-object
-    
-      V
-     ↗ ↘
-    S   O
-
-Examples:  
-**mi vida yemen.** - I see them.  
-**tu baka pan.** - You bake bread.  
-
-#### 6.2.2. OSV order
-
-The second structure in this triangle is OSV. It is frequent in dependant clauses.
-
-    object-subject-verb
-    
-      V
-     ↗ 
-    S ← O
-
-For example: **mi yem pan, jo tu baka.** - I eat bread _that you baked._
-
-#### 6.2.3. VOS order
-
-The third structure of this triangle is VOS, which is rarely used.
-
-    verb-object-subject
-    
-      V
-       ↘
-    S ← O
-
-
-
-#### 6.3. Verbs that end in -u
-
-Verbs that end in **-u** use this triangular pattern.
-
-    Word order triangle for verbs that end in -u
-    
-      V
-     ↗ ↘
-    O ← S
-
-#### 6.3.1. SOV order
-
-SOV order is commonly used alternative for SVO order.
-
-    subject-object-verb
-    
-      V
-     ↗ 
-    O ← S
-
-Examples:  
-**mi yemen vidu.** - _I them see._  
-**tu pan baku.** - _You bread bake._
-
-#### 6.3.2. OVS order
-
-OVS order is common in "passive" sentences.
-
-    object-verb-subject
-    
-      V
-     ↗ ↘
-    O   S
-
-Examples:  
-**pan baku tu.** - Bread is baked by you.  
-**tu suku mi.** - You are delighted by mi.
-
-#### 6.3.3. VSO order
-
-VSO order is very rare but possible.
-
-    verb-subject-object
-    
-      V
-       ↘
-    O ← S
-
-### 6.3. Passive sentences
-
-In passive sentence there is only object and verb but no subject (i.e. agent).
-
-> **mi vidu.** - I am seen.  
-> **pan baku.** - Bread is baked.  
-> **kop kaputu.** - Cup breaks. (Cup gets broken.)
-
-### 6.4. Verb endings
-
-Most verbs end in **-a** and **-u**. A handful of verbs are without a standard ending.
-
-
-
-
-
-
---------------------------------------------------------------------------------
-
-## 8. Sentences
-
-### 8.1. Observations
-
-Observations are the simplest sentence type. They may consist of only one word, which draws the listener's attention to it.
-
-> **mau!** - A cat!  
-> **pluva!** - (It) rains!  
-
-
-### 8.2. Stative Sentences
-
-
-#### 8.2.1. With pronoun subject
-
-Normally a sentence consists of a subject and a predicate. In the simplest sentences, the subject is a personal pronoun and the predicate is an adjective or a noun.
-
-> **mi bon.** - I am good.  
-> **ye novi.** - It is new.  
-> **ye sara.** - She is Sara.  
-
-The word **no** is added to form the negative.
-
-> **mi no bon.** - I'm not good.  
-> **ye no novi.** - It's not new.  
-> **ye no sara.** - She is not Sara.
-
-Also two personal pronouns can be juxtaposed.
-
-> **mi si ye.** - I am he/she.  
-> **mi no tu.** - I'm not you.
-
-#### 8.2.2. With noun subject
-
-When the subject is a noun, the word **si** (yes) is added before the predicate in positive sentences. The negative sentences use **no** like above.
-
-> **sara si bon.** - Sara is good.  
-> **batu si day.** - The stone is big.  
-> **meza si novi.** - The table is new.  
-> **meza no purani.** - The table is not old.
-
-
-#### 8.2.3. With adjective subject
-
-The same rule applies also for two adjectives.
-
-> **jovan si sundar.** - Young is beautiful.  
-> **novi no purani.** - New is not old.  
-
-#### 8.2.4. To be
-
-Pandunia doesn't use a verb like "to be" in English.
-
-
-
-### 8.3. Active Sentences
-
-In predicates of action, the main word in the predicate is a verb (i.e. an action-word). In Pandunia, verbs are easy to identify because most of them end in **-a** or **-u**.
-
-Active sentences that use a verb ending in **-a** have the subject–verb–object word order (SVO).
-
-> **mi yem pingo.** - I eat apples.  
-> **mi auda musik.** - I hear music.  
-> **mi vida tu.** - I see you.
-
-Verbs ending in **-u** are used in the subject–object–verb word order (SOV).
-
-**mi pingo yemu.** - _I apples eat._
-
-SOV and SVO are the two most common word orders by far in the languages of the world. SOV is used in languages like Hindi-Urdu, Tamil, Turkish, Japanese and Korean. SVO is used in English, Spanish, Mandarin Chinese, Indonesian and Modern Arabic among others.
-
-
-### 8.4. Passive Sentences
-
-#### 8.4.1. OV order
-
-In the passive voice there is no agent subject in the sentence. There is only the object and the verb. Normally the passive is expressed with object–verb (VO) word order with the verb ending in **-u**.
-
-> **tu vidu.** - You are seen.  
-> **musik audu.** - Music is heard.  
-> **pan baku.** - Bread is baked.  
-
-Here the focus is on the object, which is the first word in the sentence. The object is a passive actor that undergoes the action.
-
-The agent can be mentioned after the verb with or without the preposition **de**.
-
-> **tu vidu mi.** - You are seen by me.  
-> **tu vidu de mi.** - You are seen by me.
-
-
-#### 8.4.2. OV order
-
-In verb–object (VO) order the focus is on the verb.
-
-> **vida tu.** - Seeing you.  
-> **auda musik.** - Listening music.  
-> **baka pan.** - Baking bread.
-
-
-#### 8.5. All Possible Word Orders
-
-There are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
-
-Different orders put the focus on different constituents: the subject, the object or the verb. The focus or emphasis is on the first part of a sentence.
-
-    1. With the verb ending in -a
-        - object–subject–verb (OSV) : musik mi auda.
-        - subject–verb–object (SVO) :       mi auda musik.
-        - verb–object–subject (VOS) :          auda musik mi.
-    2. With the verb ending in -u
-        - subject-object-verb (SOV) : mi musik audu.
-        - object-verb-subject (OVS) :    musik audu mi.
-        - verb-subject-object (VSO) :          audu mi musik.
-
-The constituent, which is further away from the verb, can be left out. So for example **musik mi auda** (OSV) can be truncated to **mi auda** (SV). Likewise **mi musik audu** (SOV) can be truncated to **musik audu** (OV).
-
-The typical word orders in everyday Pandunia are SVO, SOV and OSV. The other word orders can be heard in poetry and in other forms of literary language.
-
-
-### 8.6. Pivot structure
-
-#### 8.6.1. Basic pivot structure (SVOVO)
-
-In the _pivot structure_ the word order is:  
-subject – verb 1 – object 1 – verb 2 – object 2.
-
-Object 1 functions has dual role. It is at the same time the object for verb 1 and the subject for verb 2.
-
-> **mi vol tu yem sabze.** - I want you eat vegetables.
-
-In the example above, **mi vol** has **tu** as its object. At the same time, **tu** functions as the subject of the following predicate, **yem sabze**. So **tu** is the _pivot_ of the entire sentence.
-
-
-### 8.7. Serial verbs
-
-All action-words (verbs) that come one after another are activated by the subject. There can be two, three or even more action-words in series.
- 
-1. **mi enda dom.** - I go home.  
-2. **mi ken enda dom.** - I can go home.  
-3. **mi vol ken enda dom.** - I want to be able to go home. (Lit. _I want can go home_!)
-
-
-### 8.8. Pronoun dropping
-
-In certain types of expressions the pronouns get dropped for brevity. This is done especially in commands and requests.
-
-#### 8.8.2. Short pivot structure (VOVO)
-
-> **mi kia tu baxa pandunia.** - I ask do you speak Pandunia.  
-> **kia tu baxa pandunia?** - Do you speak Pandunia.
-
-#### 8.8.3. Short pivot structure (VVO)
-
-> **mi cing tu lay dom.** - I ask you to come home.  
-> **cing lay dom!** - Please come home! (Literally: _Request come home!_)
-
-
-
---------------------------------------------------------------------------------
-
-## 9. Particles
-
-
-### 9.1. Affirmation and Negation
-
-### 9.1.1. Affirmative
-
-Particle **si** is affirmative and **no** is negative. **si** affirms the existence of something, whereas **no** denies it. In other words **si** means "to be" or "there is" and **no** means "not to be" or "there is not".
-
-Expressions are affirmative by default, so the word **si** is not always necessary. However it is especially convenient in expressions of state.
-
-> **mi si jen.** - I am a person.  
-> **ye si novi meza.** - It is a new table.
-
-### 9.1.2. Negative
-
-Such sentences can be simply negated with **no**.
-
-> **mi no jen.** - I'm not a person.  
-> **ye no novi meza.** - It's not a new table.
-
-The word **no** is used for denying anything. It affects always the next word.
-
-> **mi vida tu.** - I see you.  
-> **mi no vida tu.** - I don't see you.  
-> **mi vida no tu ama yemen.** - I see, not you, but them.
-
-The particles **si** and **no** are used also for answering questions.
-
-> **kia tu vida mi?** - Do you see me?  
-> **si. (mi vida tu.)** - Yes. (I see you.)  
-> **no. (mi no vida tu.)** - No. (I don't see you.)
-
-
-
-### Modifier particles
-
-Particles **ge** and **de** are used to mark possession and modification. **Ge** connects the modifying word or phrase to the modified word. **De** works in the opposite direction. It connects the modified word to the modifier.
-
-#### 9.2.1. Possession
-
-The modifier particle can be used for any possessive noun or pronoun.
-
-With regards to possession, **ge** works like apostrophe-s ('s) in English.
-
-> **maria ge mama** - Maria's mother  
-> **mi ge bet** - my house  
-> **mi ge papa ge bet** - my father's house
-
-**De** works like "of" in English.
-
-> **mama de maria** - the mother of Maria
-> **bet de mi** - the house of mine  
-> **bet de papa de mi** - the house of the father of mine
-
-#### 9.2.2. Attribution with adjectives
-
-Another way to use these particles is to connect an adjective or other words with a noun. It gives us more information about the noun, and the particle makes it clear in which end the main noun is.
-
-The modifier particles are useful for creating complex adjectives that consists of two or more words.
-
-> **roza rang ge lab** - rose-colored lips  
-> **saman rang ge mat** - sky-colored eyes
-
-Or in the opposite order:
-
-> **lab de roza rang** - lips of the color of the rose  
-> **mat de saman rang** - eyes of the color of the sky
-
-#### 9.2.3. Relative clauses
-
-Also relative clauses are created with help of the modifier particles.
-
-Here **de** has a similar role as English relative pronouns _which_, _that_, _who_ and _whom_.
-
-> **ye si man _de mi vida_.** - He is the man _that I saw_.
-
-If the relative clause is missing a subject but contains an object (i.e. if the verb is transitive), the main-clause noun is the implied subject of the relative clause.
-
-> **mi vida man _de yem pingo_.** - I see a man _who eats apples_.  
-
-It's possible to construct relative clauses with **ge** too. Then the relative clause precedes the noun that it modifies. The verb is turned into a modifier by putting **ge** immediately after the verb.
-
-> **mi vida _pingo yemu ge_ man.** - I see an _apple-eating_ man.
-
-
-
-### 9.3. Modal Particles
-
-Modal particles indicate what the speaker thinks about s/he says in relation to the listener. Modal particles are commonly used in many languages. East Asian languages, including Chinese and Japanese, use famously sentence-final particles.
-
-In Pandunia, a modal particle modifies the subsequent word, or the whole sentence, when the modal particle is the last word in the sentence.
-
-The particle **plus** _(also)_ is a good example because it functions much like in English.
-
-> **ye yem bir plus.** - S/he drinks beer, _also_.  
-> **ye yem plus bir.** - S/he drinks _also beer_.  
-> **ye plus yem bir.** - S/he _also drinks_ beer.  
-> **plus ye yem bir.** - _Also s/he_ drinks beer.
-
-Modal particles can modify all kinds of words, including pronouns and numerals, which adjectives can't modify.
-
-
-### 9.4. Tense and Aspect Particles
-
-In Pandunia, tense can be expressed with time words and time phrases if needed. The general time words are **gon** (past), **nun** (present) and **futur** (future). They function like adjectives and adverbs, so typically their place is before the verb or at the end of the sentence.
-
-> **mi ha mau gon.** - I had cats in the past.
-> **ama mi no ha mau nun.** - But I don't have cats now.
-> **munkin mi ha mau futur.** - Maybe I have cats in the future.
-
-Note! Verbs are not conjugated. So the verb **ha** stayed the same in all tenses in the examples above.
-
-Naturally time words are used only when they are necessary. Usually it is enough to mention the time just once at the beginning of the text and not in every single sentence, if the tense doesn't change.
 
 
 
@@ -997,75 +565,4 @@ Creates verbs that reverse the meaning of the base verb.
 **liga** to tie; **ligula** to untie  
 **ziba** to plug, to close with a plug; **zibula** to unplug, to open the plug.  
 
-
-
-## 12. Other Topics
-
-### Sentence Word Orders
-
-In theory, there are six possible word orders for the transitive sentence. In practice, all of them are possible in Pandunia. They are made possible by the two verb endings, which decide the order of the other constituents (subject and object).
-
-    1. With the verb ending in -a
-        - object–subject–verb (OSV) : musik mi auda.
-        - subject–verb–object (SVO) :       mi auda musik.
-        - verb–object–subject (VOS) :          auda musik mi.
-    2. With the verb ending in -u
-        - subject-object-verb (SOV) : mi musik audu.
-        - object-verb-subject (OVS) :    musik audu mi.
-        - verb-subject-object (VSO) :          audu mi musik.
-
-The constituent, which is further away from the verb, can be left out. So for example **musik mi auda** (OSV) can be truncated to **mi auda** (SV). Likewise **mi musik audu** (SOV) can be truncated to **musik audu** (OV).
-
-The typical word orders in everyday Pandunia are SVO, SOV and OSV. The latter occurs frequently in dependant clauses, for example in **mi vida jen, jo tu suku.** (I saw the person _whom you like_.) The other word orders can be heard in poetry and in other forms of literary language.
-
-
-### Hierarchy of Word Types
-
-Spoken language is a flow of sounds which constitute words. Written language, in the case of Pandunia, is a flow of letters from left to right, which constitute words. So every expression is essentially a sequence of words. However all words are not equal. There is a hierarchy of words. The verb is the structural center of a sentence and other words are directly or indirectly connected to it.
-
-Each sentence can be drawn as a tree diagram, where the central words are above and the dependant words are below. For example the sentence **mi vida tu** (I see you) can be pictured as a tree as follows.
-
-    mi vida tu.
-
-       vida
-      ┌─┴─┐
-     mi   tu
-
-Adjectives and numerals point to their head word, the noun.
-
-    mi vida sam jovan jen.
-
-       vida
-      ┌─┴──┐
-     mi   jen
-           |
-         jovan
-           |
-          sam
-
-The hierarchy of word types in Pandunia from the more to the less central is as follows.
-
-1. Conjunctions: i, u
-2. Connectors: ge, de
-3. Coverbs (prepositions): na, do, ze, bi
-4. Verbs
-5. Nouns and pronouns
-6. Tense, aspect and mood particles
-7. Numerals
-8. Adjectives
-
-The following example shows how the scope affects the final position of words in the tree hierarchy. For example, although **i** is in general higher than **koz**, here its scope is only to connect **yusef** and **sara**. **Ze koz de** is at the top, because it connects the two sub-phrases.
-
-
-    yusef i sara vol darsa pandunia ze koz de ye si bon dunia bax.
-
-                      ze koz de
-               ┌──────────┴──────────┐
-              vol                   si
-          ┌────┴──────┐           ┌──┴──┐
-          i         darsa        ye    bax
-      ┌───┴───┐    ┌──┴────┐            |
-    yusef   sara       pandunia       dunia
-                                        |
-                                       bon
 
