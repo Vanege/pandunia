@@ -96,13 +96,13 @@ Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kuti
 
 > waf ha **fani** nam. - Hundoj havas **amuzan** nomon.  
 > tu **sundaro** sona. - Vi **bele** dormas.  
-> tu baxa pandunia **bono**. - Vi parolas Pandunion **bone**.  
+> tu baxa pandunia **bono**. - Vi parolas Pandunia **bone**.  
 
 ### 3.1 Komparoj  
 
 > fem si **sem** bon **ka** man - Ino estas _same_ bona _kiel_ iĉo.  
-> pandunia si **max** bon **ka** englix - Pandunio estas _pli_ bona _ol_ la Angla.  
-> munkin pandunia si **maxim** izi - Eble Pandunio estas _(la) plej_ facila.  
+> pandunia si **max** bon **ka** englix - Pandunia estas _pli_ bona _ol_ la Angla.  
+> munkin pandunia si **maxim** izi - Eble Pandunia estas _(la) plej_ facila.  
 > mi kar **min** multo **ka** mi loga** - Mi faras _malpli_ multe _ol_ mi diras.  
 > mi yem akol **minim** multo - Mi konsumas alkoholon _malplej_ multe.  
 
@@ -145,7 +145,7 @@ Notu ke eblas krei ajnan korelativon tiel:
 
 ## 5. Demandoj kaj respondoj
 
-## 5.1 Demandoj
+### 5.1 Demandoj
 
 _ke_ indikas demandon pri afero. _kia_ nedevige indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
 
@@ -154,7 +154,7 @@ _ke_ indikas demandon pri afero. _kia_ nedevige indikas demandon pri vereco de f
 
 > (**kia**) waf yem maw? - (**Ĉu**) hundoj manĝas katojn?  
 
-## 5.2 Respondoj
+### 5.2 Respondoj
 
 > wang - flava
 > sa si wang - tio estas (la) flava  
@@ -171,7 +171,7 @@ _si_ estas aparta vorto. Ĝi funkcias kiel pozitiva adverbo antaŭ verbo, sed an
 
 ## 6. Verboj
 
-Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas dekstre de verbo. La dekstra parto ne estas deviga. Oni legas kaj komprenas de maldekstre al dekstre.
+Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas dekstre de verbo. La dekstra parto ne estas deviga.
 
 > mi **vol** panyo - Mi volas amikon  
 > mi **darsa** loge - Mi lernas vorton  
@@ -208,36 +208,57 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 
 Ekzistas sufikso por precizigi -ig- sen bezoni objekton, tamen ofte samfacilas uzi _xe_ kiel objekton.
 
-### 6.3 "Aktiva kaj pasiva voĉo"
+### 6.4 "Aktiva kaj pasiva voĉo"
 
-Verboj havas du formojn: la -a formo kaj la -u formo.
+Verboj havas du formojn: la a-formo kaj la u-formo. Por u-verbo, la subjekto estas la objekto de la a-verbo, kaj la objekto estas la subjekto de la a-verbo. Notu, ke kelkaj el la plej oftaj a-verboj ne nepre devas finiĝi per a (klarigo en la parto pri finaĵoj).
 
-Tamen, oni povas daŭre konsideri ke la lingvo ĉiam estas SVO kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas konsideri "suku" kaj "suka" kiel apartajn verbojn.
+> suka - plaĉi al
+> suku - ŝatas
+> doka - legi
+> doku - esti legata de / legiĝi
+> yem(a) - konsumi
+> yemu - esti konsumata de / konsumiĝi
 
+> mi doka - mi legas  
+> mi doka buk - mi legas libron  
+> buk doku - libro estas legata (= libro legiĝas)  
+> buk doku mi - libro estas legata de mi  
 
+Tamen, oni povas daŭre konsideri ke la lingvo ĉiam estas SVO kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas vidi _suku_ kaj _suka_ kiel apartajn verbojn.
 
+### 6.5 Utila ekzemplo: ha kaj hu
 
-### 6.4 Utila ekzemplo: havi / rilati al
+> ha - havi  
+> hu - esti havata de, de  
 
-### Tempoj (tri niveloj de precizeco)
+> mi ha maw - mi-a kato = mi havas katon  
+> maw hu mi - kato de mi = kato havata de mi  
 
-### Causative?
-Vi ĝustas
-Mi ĝustas (korektas) vin
-(Sube, vi lernos kiel precizigi la causativecon)
-
-### Aktiva kaj Pasiva formo de verboj
-
-### Posedo/Rilato
-
-La verboj _ha_ (havi) kaj _he_ (esti havata de) estas uzataj.
-
-> mi **ha** panyo - mia amiko (= mi havas amikon)  
-> panyo **he** mi - amiko de mi (= amiko estas havata de mi)  
-
-
+--------------------------------------------------------------------------------
 
 ## 7. Pivota strukturo
+
+Objekto de unua verbo povas esti subjekto de dua verbo.
+
+## 7.1 "ki--subfrazoj"
+
+En Esperanto:
+Mi volas (tion), kion vi manĝas.
+Tiu strukturo estas S V O, O S V
+
+En Pandunia:
+mi vola sa yemu tu. (= mi volas tion manĝatan de vi)
+Tiu strukturo estas S V O/S V O
+
+## 7.2 "ke-subfrazoj"
+
+
+En Esperanto:
+Mi volas (tion), ke vi manĝas .
+Tiu strukturo estas S V (S V)
+
+
+Oni legas kaj komprenas de maldekstre al dekstre.
 
 ### Oni ĉiam analizu de maldekstre al dekstre
 
