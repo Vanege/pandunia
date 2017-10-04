@@ -212,17 +212,24 @@ Eblas dividi longan frazon en du etajn frazojn, menciante antaŭan elementon per
 
 Pensu "na" kiel "je"
 
-## 9. Finaĵoj
+## 9. Konjunkcioj(?)
+
+## 10. Finaĵoj
 
 Je tiu punkto, vi jam povas uzi la vortaron kaj kunmetadon por skribi en Pandunia. Tamen, Pandunia havas finaĵojn kiuj malaltigas la kvanton de vortoj lernendaj.
+
+## 11. Aldonaj sufiksoj
+
+(nuntempe, uzi ilin estas malpopulare (krom -ul, sed eble tio venas de mankoj en la vortaro)
 
 Normalaj vortoj en Pandunia apartenas al unu el kvin grupoj: substantivo, adjektivo, adverbo, verbo, prepozicio
 ### Kiel krei vorton por alia grupo (krom prepozicio)
 
 
-## 10. Liberaj sufiksoj
+Notu
 
-
+Notu ke ili ofte ne estas utilaj, ĉar oni povas uzi kunmetadon por havi pli facilan rezulton similan. Uzi ilin neniam estu devige por skribi en bona lingvaĵo. Retejo = net lok
+Novaj sufiksoj povas aperi de la komunumo se ili montriĝas oportunaj kaj ne malfaciligaj.
 
 
 
