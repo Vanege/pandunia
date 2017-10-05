@@ -66,7 +66,7 @@ Ili funkcias kiel substantivoj.
 
 > **mi** - mi, min  
 > **tu** - vi, vin  
-> **ye** - ŝi, li, ri, ĝi, ŝin, lin, rin, ĝin  
+> **ye** - ŝi, li, ri, ĝi, ŝin, lin, rin, ĝin, …  
 > **mimen** - ni, nin  
 > **tumen** - vi, vin  
 > **yemen** - ili, ilin    
@@ -289,7 +289,7 @@ Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj l
 > sa si darse grup **de** pandunia - Tio estas kurso **de** Pandunia.  
 > no si multe **de** loga - Ne estas multe **da** vortoj. ("De" inkluzivas la sencon de "Da")  
 
-La lasta prepozicio estas **ge**, ĝi funkcias kiel _de_, sed la dekstro kaj maldekstro estas inversigita. _ge_ ne estas tiel ofte uzata kiel _de_, sed ĝi estas utila por montri posedon: mi **ge** panyo = mi **-a** amiko. ; Simile: panyo de mi = amiko de mi = amiko mi-a. Pro tio, kelkaj konsideras "ge" kaj "de" kiel duoblaĵoj de la verboj "ha" kaj "hu". Ni vidos en la estonteco ĉu ili estos konservitaj.
+La lasta prepozicio estas **ge**, ĝi funkcias kiel _de_, sed la dekstro kaj maldekstro estas inversigita. _ge_ ne estas tiel ofte uzata kiel _de_, sed ĝi estas utila por montri ajnan rilaton, kiel rilaton de posedo: mi **ge** panyo = mi **-a** amiko.
 
 #### 8.2 Precizigi prepozicion
 
