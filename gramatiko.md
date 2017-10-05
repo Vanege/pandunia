@@ -3,9 +3,7 @@ Gramatiko
 
 ## 0. Lingva spirito
 
-Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, kaj oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi esprimadon per informoj evidentaj. Se kunteksto ne sufiĉas, oni precizigas.
-
-Pro la larĝsencaj vortoj, oni povas komuniki tre rapide sen eraroj je baza nivelo, sed oni ĉiam povas precizigi per adjektivo aŭ adverbo. Aldone al tio, pandunia estas kreata tiel ke se homoj komprenas onian frazon, oni verŝajne ne faris gramatikan eraron. Se io ne ĉiam estas utila, ĝi ne estas deviga. Tiel la plej oftaj problemoj en Esperanto (distingo ig/iĝ, finaĵo -n, elekto de ĝusta prepozicio, tabelvortoj, si, la …) iĝas strukture nefareblaj aŭ tre malprobablaj.
+Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, kaj oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi esprimadon per informoj evidentaj aŭ erarkaŭzaj gramatikaĵoj. Kiam informo ne estas ĉiam utila, ĝi ne estas deviga en Pandunia. Se kunteksto ne sufiĉas por kompreni, tiam oni precizigas.
 
 --------------------------------------------------------------------------------
 
@@ -21,7 +19,8 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 
 > loge - vorto, vortoj  
 > **un** loge - (unu) vorto  
-> **poli** loge - (pluraj) vortoj  
+> **poli** loge - (pluraj) vorto**j**  
+> **du** loge - du vortoj  
 
 ### 1.2 Precizigi definitecon
 
@@ -83,7 +82,7 @@ Ili funkcias kiel substantivoj.
 
 > ye toca ye - Ĝi tuŝas ĝin, Ĝi tuŝas sin  
 > ye toca **sa** ye - Ĝi tuŝas ĝin (= Ĝi tuŝas tiun ĝin)  
-> ye toca **se** ye - Ĝi tuŝas sin (= Ĝi tuŝas propran ĝin) (Vidu _se_ kiel "own" aŭ "self" (angle), "propre" (france))  
+> ye toca **se** ye - Ĝi tuŝas **s**in (= Ĝi tuŝas propran ĝin) (Vidu _se_ kiel "own" aŭ "self" (angle), "propre" (france))  
 
 --------------------------------------------------------------------------------
 
