@@ -84,7 +84,7 @@ Ili funkcias kiel substantivoj.
 
 > ye toca ye - Ĝi tuŝas ĝin, Ĝi tuŝas sin  
 > ye toca **sa** ye - Ĝi tuŝas ĝin (= Ĝi tuŝas tiun ĝin)  
-> ye toca **se** ye - Ĝi tuŝas sin (= Ĝi tuŝas propran ĝin)  
+> ye toca **se** ye - Ĝi tuŝas sin (= Ĝi tuŝas propran ĝin) (Vidu _se_ kiel "own" aŭ "self" (angle), "propre" (france))  
 
 --------------------------------------------------------------------------------
 
@@ -268,80 +268,74 @@ En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. 
 
 ### 8.1 La 6 prepozicioj
 
-> mi enda **ze** kamar (= mi cuta kamar) - Mi iras **el** la ĉambro. (Loko indikas ke temas pri movo)
-> mi sona **ze** mi no suku dunia - Mi dormas **ĉar** mi ne _ŝatas_ la mondon. (Verbo iom indikas ke temas pri kaŭzo)
-> mi yema **ze** du hor - Mi manĝos **post** du horoj (= Mi manĝos el _du horoj_). (Daŭro indikas ke temas pri daŭro)
-> mi si **na** darse lok - mi estas **en** la lernejo. (Loko indikas ke temas pri loko)
-> sup si **na** meza - La supo estas **sur** la tablo. (Oni kutime metas aferojn sur tablo, kaj ne sub)
-> tu sona **na** mi kara - Vi dormas **dum** mi _laboras_. (Verbo indikas ke temas pri samtempa ago)
-> mi enda **do** kafe kan (= mi enda kafe kan) - Mi iras **al** kafejo. (Loko indikas ke temas pri movo)
-> mi kara **do** tu - Mi laboras al/**por** vi. (Ne ekzistas grava diferenco tie inter "labori al" kaj "labori por")
-> tu muso cinga **do** tu yema - Vi petu por ke/**antaŭ ol** vi manĝas. (Memoru: la plej verŝajna venkas)
-> mi kitaba **bi** karbon - Mi skribas **per** karbo.
-> mi vizita dunia **bi** tu - Mi vizitas la mondon **kun** vi. (Se oni ne kutime uzi "vi", verŝajne temas pri akompano)
-> sa si darse grup **de** pandunia - Tio estas kurso **de** Pandunia.
-> Ne estas multe da vortoj. ("De" inkluzivas la sencon de "Da")
-
-Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj lingvoj. En la Angla "to" povas signifi "to (al)" kaj "in order to / for (por)", kaj "since" povas signifi "from (ekde)" kaj "because (ĉar)". 
-
-**ge** estas kiel _de_, sed la vortoj maldekstre de ĝi de-as la dekstrajn. Oni povas kompreni "ge" kiel "ha", kaj "de" kiel "hu". _ge_ estas ofte uzata por montri posedon: mi ge panyo = mi-a amiko. ; panyo de mi = amiko de mi = amiko mi-a.  
-
-### 8.2 Precizigi prepozicion
-
-
-
 > ze - **el**, de (deiro), post / post kiam, ĉar  
 > na - **je**, apud, ĉe, ĉirkaŭ, en, inter, super, sub, sur, tra, dum, laŭ, pri  
 > do - **al**, por, antaŭ / antaŭ ol, ĝis  
 > bi - kun, per  
 > de - de, da  
 
+Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj lingvoj. En la Angla "to" povas signifi "to (al)" kaj "in order to / for (por)", kaj "since" povas signifi "from (ekde)" kaj "because (ĉar)". 
+
+> mi enda **ze** kamar (= mi cuta kamar) - Mi iras **el** la ĉambro. (Loko indikas ke temas pri movo)  
+> mi sona **ze** mi no suku dunia - Mi dormas **ĉar** mi ne _ŝatas_ la mondon. (Verbo iom indikas ke temas pri kaŭzo)  
+> mi yema **ze** du hor - Mi manĝos **post** du horoj (= Mi manĝos el _du horoj_). (Daŭro indikas ke temas pri daŭro)  
+> mi si **na** darse lok - mi estas **en** la lernejo. (Loko indikas ke temas pri loko)  
+> sup si **na** meza - La supo estas **sur** la tablo. (Oni kutime metas aferojn sur tablo, kaj ne sub)  
+> tu sona **na** mi kara - Vi dormas **dum** mi _laboras_. (Verbo indikas ke temas pri samtempa ago)  
+> mi enda **do** kafe kan (= mi enda kafe kan) - Mi iras **al** kafejo. (Loko indikas ke temas pri movo)  
+> mi kara **do** tu - Mi laboras al/**por** vi. (Ne ekzistas grava diferenco tie inter "labori al" kaj "labori por")  
+> tu muso cinga **do** tu yema - Vi petu por ke/**antaŭ ol** vi manĝas. (Memoru: la plej verŝajna venkas)  
+> mi kitaba **bi** karbon - Mi skribas **per** karbo.  
+> mi vizita dunia **bi** tu - Mi vizitas la mondon **kun** vi. (Se oni ne kutime uzi "vi", verŝajne temas pri akompano)  
+> sa si darse grup **de** pandunia - Tio estas kurso **de** Pandunia.  
+> no si multe **de** loga - Ne estas multe **da** vortoj. ("De" inkluzivas la sencon de "Da")  
+
+La lasta prepozicio estas **ge**, ĝi funkcias kiel _de_, sed la dekstro kaj maldekstro estas inversigita. _ge_ ne estas tiel ofte uzata kiel _de_, sed ĝi estas utila por montri posedon: mi **ge** panyo = mi **-a** amiko. ; Simile: panyo de mi = amiko de mi = amiko mi-a. Pro tio, kelkaj konsideras "ge" kaj "de" kiel duoblaĵoj de la verboj "ha" kaj "hu". Ni vidos en la estonteco ĉu ili estos konservitaj.
+
 ### 8.2 Precizigi prepozicion
 
 Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstrui la prepoziciojn de sia denaska lingvo. Jen ekzemplo por Esperanto. 
 
-de Esperanto (ekzemple). Iu ajn povas krei tiel pli bonajn aŭ pli precizajn.
-
-je : na 
-de (posedo) : de
-de (eco) : de
-de (komenco-loko) : ze
-da : de
-antaŭ (loko) : na / na rukul de
-malantaŭ (loko) : na / na ruk de
-apud/ĉe (loko) : na / na jine de
-ĉirkaŭ (loko) : na / na wen de
-ĉirkaŭ (proksimumo) : na / na sirko de
-ekster : na way de
-en (loko) : na / na in de
-inter (pozicio) : na / na inter de x i x
-inter (elektoebloj) : un ze x i x i x 
-kontraŭ (malfavore al) : do (ye) no mede x
-malpost (tempo) : do
-post (tempo) : ze 
-sub (loko) : na xia de
-super (loko) : na xiaul de
-sur (loko) : na / na par de
-tra (loko) : na krus de
-al (destino) : do
-el (fonto) : ze
-ĝis (limo de ago) : do / do limit de
-anstataŭ : na vis de
-dum (daŭro) : na / na dur de
-krom (aldono) : na maxe de
-krom (escepto) : na mine de
-kun (kunago) : bi
-laŭ (direkto/instrukcioj) : na / na cinge de / na forme de
-laŭ (vidpunkto) : na / na vide de
-malgraŭ : na / na sabe de
-per (ilo) : bi
-per (maniero) : bi
-por (celo) : do / do (mi) mede x
-por (profitanto) : do
-por (bazo de taksado) : na yang de
-pri (temo) : na tem de 
-pro (kialo) : ze / ze koz de
-sen (malesto) : bi no
+> je : na  
+> de (posedo) : de  
+> de (eco) : de  
+> de (komenco-loko) : ze  
+> da : de  
+> antaŭ (loko) : na / na rukul de  
+> malantaŭ (loko) : na / na ruk de  
+> apud/ĉe (loko) : na / na jine de  
+> ĉirkaŭ (loko) : na / na wen de  
+> ĉirkaŭ (proksimumo) : na / na sirko de  
+> ekster : na way de  
+> en (loko) : na / na in de  
+> inter (pozicio) : na / na inter de x i x  
+> inter (elektoebloj) : un ze x i x i x   
+> kontraŭ (malfavore al) : do (ye) no mede x  
+> malpost (tempo) : do  
+> post (tempo) : ze   
+> sub (loko) : na xia de  
+> super (loko) : na xiaul de  
+> sur (loko) : na / na par de  
+> tra (loko) : na krus de  
+> al (destino) : do  
+> el (fonto) : ze  
+> ĝis (limo de ago) : do / do limit de  
+> anstataŭ : na vis de  
+> dum (daŭro) : na / na dur de  
+> krom (aldono) : na maxe de  
+> krom (escepto) : na mine de  
+> kun (kunago) : bi  
+> laŭ (direkto/instrukcioj) : na / na cinge de / na forme de  
+> laŭ (vidpunkto) : na / na vide de  
+> malgraŭ : na / na sabe de  
+> per (ilo) : bi  
+> per (maniero) : bi  
+> por (celo) : do / do (mi) mede x  
+> por (profitanto) : do  
+> por (bazo de taksado) : na yang de  
+> pri (temo) : na tem de   
+> pro (kialo) : ze / ze koz de  
+> sen (malesto) : bi no  
 
 ### 8.3 Gravaj notoj
 
