@@ -242,6 +242,7 @@ Objekto de unua verbo povas esti subjekto de dua verbo.
 > mi **pensa** tu **darsa** bono - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
 > ye **doka** buk **kitabu** mi - Li **legas** libron, kiun **skribis** mi  
 > tu **loga** jumle **karu** mi - Vi **diras** frazon, kiun **faris** mi  
+> mi suku kena yema = mi suku mi kena mi yema - Mi ŝatas povi manĝi. (Kiam substantivo estas evidenta, oni povas forigi ĝin)
 
 Plej ofte, ĉio kio troviĝas dekstre de verbo estas la objekto de tiu verbo, sed kelkfoje nur la unua posta substantivo estas la objekto. Tamen, ne ekzistas granda diferenco inter "Mi volas min, kiu manĝas kukon" (mi volas **mi** yem kek) kaj "Mi volas, ke mi manĝu kukon" (mi volas **mi yem kem**). Niaj provadoj en Telegram ne montris veran problemon.
 
@@ -269,7 +270,7 @@ En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. 
 ### 8.1 La 6 prepozicioj
 
 > ze - **el**, de (deiro), post / post kiam, ĉar  
-> na - **je**, apud, ĉe, ĉirkaŭ, en, inter, super, sub, sur, tra, dum, laŭ, pri  
+> na - **je**, apud, ĉe, ĉirkaŭ, en, inter, super, sub, sur, tra, dum, laŭ, pri  
 > do - **al**, por, antaŭ / antaŭ ol, ĝis  
 > bi - kun, per  
 > de - de, da  
@@ -352,233 +353,44 @@ Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "de".
 
 --------------------------------------------------------------------------------
 
-## 9. Konjunkcioj(?)
-i
-u
-ama (sed, tamen)
-jadi (se, ĉu (whether))
-to (do)
+## 9. Konjunkcioj
 
+> manux **i** hewan - homo **kaj** besto  
+> hero **u** goro - heroo **aŭ** porko  
+> **ama** no jen loga sa - **sed**/**tamen** neniu diras tion  
+> mi si suka **jadi** mi si maw - Mi estus feliĉa, **se** mi estus kato  
+> mi no saba **jadi** mi si ver - Mi ne scias, **ĉu** mi veras  
+> mi no aha **to** mi haha - Mi ne komprenas, **do** mi ridas  
 
 --------------------------------------------------------------------------------
 
 ## 10. Finaĵoj
 
-Je tiu punkto, vi jam povas uzi la vortaron kaj kunmetadon por skribi en Pandunia. Tamen, Pandunia havas finaĵojn kiuj malaltigas la kvanton de vortoj lernendaj.
+En Esperanto, normalaj radikoj povas esti a-bazaj, o-bazaj, i-bazaj aŭ e-bazaj. Tio konsulteblas en Esperantaj vortaroj kiel Reta Vortaro aŭ Vortaro.net. Ofte, ĝi baziĝas sur la plej ofta vorto. En Pandunia, kiam vorto estas uzata en ĝia baza formo, finaĵo ne estas deviga, sed povas esti uzata por plia klareco.
 
-Pandunia povus esti pli simpla foriginte la alineojn 10 kaj 11, tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso).
+> log**a** - dir**i**  
+> log**u** - esti dirata (de) / dir**iĝi**  
+> log**i** - dir**a**  
+> log**o** - dir**e**  
+> log**e** aŭ log - dir**o** / vorto (log estas baze substantivo)  
 
+> nova - novigi  
+> novu - esti novigita (de) / noviĝi  
+> novi aŭ nov - nova  (nov estas baze adjektivo)  
+> novo - nove  
+> nove - novo / novaĵo  
 
-Kiel konsulti la vortaron.
+Pandunia povus esti pli simpla foriginte la aglutinajn ecojn (10 kaj 11), tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso). Per la finaĵoj, oni povas krei proprajn vortojn, sed ankoraŭ estas malklare kion ili signifas, kaj oni ne scias ĉu ili bezonas esti pli precizaj. Ni invitas vin uzi la lingvon kun ni en Telegram por eltrovi la plej evidentajn signifojn.
 
 --------------------------------------------------------------------------------
 
 ## 11. Sufiksoj
 
-(nuntempe, uzi ilin estas malpopulare (krom -ul, sed eble tio venas de mankoj en la vortaro)
+Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj. Tamen, notu ke ili ne estas tiom utilaj (nek precizaj), ĉar oni ofte povas anstataŭe fari kombinadon, metante du substantivojn unu apud la alian: net **lok** = ret**ejo**.
 
-Normalaj vortoj en Pandunia apartenas al unu el kvin grupoj: substantivo, adjektivo, adverbo, verbo, prepozicio
-### Kiel krei vorton por alia grupo (krom prepozicio)
+#### 11.1 -ar
 
-
-Notu
-
-Notu ke ili ofte ne estas utilaj, ĉar oni povas uzi kunmetadon por havi pli facilan rezulton similan. Uzi ilin neniam estu devige por skribi en bona lingvaĵo. Retejo = net lok
-Novaj sufiksoj povas aperi de la komunumo se ili montriĝas oportunaj kaj ne malfaciligaj.
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------------
-
-## 10. Prepositions
-
-### 10.1. Prepositions of place and time
-
-Pandunia has three prepositions of place and time.
-
-1. **na** - location or moment (in general): at, in, on, during
-2. **ze** - origin or beginning: from, since
-3. **do** - destination or end: to, till, until
-
-Prepositions are not used as frequently in Pandunia as in English. In many phrases, the verb says enough alone.
-
-> **mi lay dom.** - I come home.  
-> **tu sit kursi.** - You sit (on) the chair.  
-> **ye lala sofa.** - S/he lies (on) the sofa.  
-> **maci nata daria.** - Fish swim (in) the sea.  
-> **janger marca dau.** - Warriors march (on) the road.  
-
-A preposition begins a prepositional phrase. In a simple prepositional phrase the preposition is complemented by a pronoun or a noun phrase.
-
-> **mi na hotel.** - I'm in the hotel.  
-> **mi son na hotel.** - I sleep in the hotel.  
-> **mi son ze cam do suba.** - I sleep since evening until morning.  
-> **mi safar ze london do paris.** - I travel from London to Paris.  
-
-Prepositions can be complemented also by a verb phrase. Then they refer to time.
-
-> **mi deng ze tu enda.** - I have waited since you left.  
-> **mi deng do tu lay dom.** - I wait until you come home.  
-> **mi deng na tu son.** - I wait while you sleep.  
-
-More precise expressions of place and time are expressed with _a preposition + a place word + **de**_.
-
-> **na dur de** - for the time/duration of  
-> **mi deng na dur de tu son.** - I wait for the time when you sleep.  
-> **na lok de** - at the place of  
-> **mi deng na lok de tu toka.** - I wait at the place where you left.  
-> **na xia de** - under, below  
-> **un waf lala na xia de meza.** - A dog lies under the table.  
-> **na par de** - on the surface of  
-> **un mau lala na par de meza.** - A cat lies on the table.
-
-Similar meaning can be expressed also with compound words.
-
-> **un mau lala na meza par.** - A cat lies at the tabletop.
-
-In addition, a preposition can be followed immediately by a verb.
-
-> **dur** - to last, to take time
-> **mi deng na dur de tu son.** - _I wait during you sleep._
-
-
-### 10.2. Prepositions of manner
-
-Preposition **bi** indicates means. It corresponds to English prepositions _with_ and _by (by means of)_. The meaning of **bi** is very broad. Often it is followed by another word that defines the meaning more precisely.
-
-> **mi kata pan bi caku.** - I cut bread with a knife.  
-> **mi kata pan bi uza caku.** - I cut bread by using a knife.
-
-Prepositions **ka** indicates manner or style. It corresponds to English prepositions _like_, _than_, _as_ and _as if_.
-
-> **mi saba pandunia ka guru.** - I know Pandunia like a master.
-
-**Ka** relates the verb or the adjective to a point of comparison. In the above example **sabi** (know) is the verb and **guru** (master) is the point of comparison.
-
-**Ka** is also used when adjectives are compared.
-
-> **ban si min dai ka papa.** - The child is smaller than the father.  
-> **opa si sem dai ka papa.** - Grandfather is as big as father.
-
-**Ka** relates the adverbs of comparison – **max** (more), **min** (less) and **sem** (same) – to the point of comparison, which is **papa** (father) in the examples above.
-
-
-
-
-### 10.3. List of compound prepositions
-
-**na ante** before. **na bada** after.  
-**na cen** in front. **na pice** behind.  
-**na xia** under, below. **na gau** over, above.  
-**na jin** near. **na far** far away. **na visin** beside, next to.
-
-
-
-
-## 11. Word Building
-
-It's possible to build new words in Pandunia. Pandunia has a productive system of word derivation. Most of the suffixes that are used in Pandunia are already in international use. Many of hem come from ancient Greek, Latin, Arabic and Persian.
-
-### 11.1. Part of speech markers
-
-Pandunia uses vowel endings for quick word derivation. In this system the final vowel of a word marks the type of the word. The system applies mainly to those words, which are derived from verb roots and adjective roots. Some adjectives are also derived from nouns.
-
-Dynamic verbs end in **-a** and **-u**. From the narrow perspective of a phrase that consists of only a subject and a verb, it can be said that **-a** marks an active verb and **-u** marks a passive verb. So **loga** means _to speak_ and **logu** means _to be spoken_.
-
-**-i** is the marker of adjective and adjectival verb (i.e. static verb). For example, from the verb **loga** (to speak) we get the adjective **logi** (spoken, wordy). From the noun **manux** (human being), we get the adjective **manuxi** (human, having the attributes of a human being). However, only derived adjectives need to end in **-i**. Words that are adjectives _by nature_ don't need the ending. That's why for example **nov** (new) and **sundar** (beautiful) are without the ending.
-
-**-e** is the marker of nouns. It means the result of the process. So **loge** means the _speech_ that results from the act of speaking. Quite often **-e** is left out and so **log** would mean the same thing as **loge**.
-
-The designated vowel endings enable easy derivation of one type of word from another. An ending is simply changed to another ending.
-
-Here are some examples.
-
-**loga** - to speak (active verb)  
-**logu** - to be spoken (passive verb)  
-**logi** - spoken, wordy (adjective)  
-**loge** or **log** - speech, word(s) (noun)  
-
-**kitaba** - to write (active verb)  
-**kitabu** - to be written (passive verb)  
-**kitabi** - written, textual (adjective)  
-**kitabe** or **kitab** - writing, text (noun)  
-
-**novi** or **nov** - new (adjective)  
-**novo** - newly (adverb)  
-**nova** - to make new (active verb)  
-**novu** - to become new (passive verb)  
-**nove** - novelty, new thing (noun)  
-
-There is a handful of verbs, which appear without the ending. These are some of the most common verbs in Pandunia.
-
-**hava** or **hav** - to have (active verb)  
-**havu** - to belong (passive verb)  
-**have** - that what is had (noun)  
-
-**mus** - to must, to be compelled (passive verb)  
-**musa** - to compel (active verb)  
-**musi** - compulsory, obligatory  
-
-
-
-
-Pandunia has a system of word derivation with final vowels that is applied on action roots and description roots. Usually it's not applied on thing roots and name roots, and also pronouns, conjuctions, numerals and particles are unaffected. However there are exceptions.
-
-- **a** marks verbs for subject-verb-object word order (SVO)
-- **u** marks verbs for object-verb-subject word order (OVS)
-- **i** marks adjectives i.e. modifiers of nouns
-- **o** marks adverbs i.e. modifiers of verbs, adjectives and other adverbs
-- **e** marks nouns that are derived from action roots and description roots
-
-#### 11.1.2. Deriving verbs
-
-1. If the root is an action, then its verbal form will mean "to do the action". For example from **vide** = "a look" we get **vida** = "to look".
-2. If the root is a description, like **nov-** (**novi** = new), then its verbal form will mean "to turn into that quality". For example from **novi** = "new" we get **nova** = "to make new" or "to renew".
-3. If the root is some kind of tool or apparatus, then its verbal form will mean "to use the tool (in usual manner)". For example **hamar** (hammer) gives **hamara** = "to hammer".
-
-#### 11.1.3. Deriving modifiers
-
-If the root word is a description, then its adjectival form will mean "that which is in the state of the root". For example from **nov-** = quality of novelty, we get **novi** = _new_ i.e. _that which is new_. The corresponding adverb will be **novo** = _newly_ or _in a new way_.
-
-If the root is an action, then its adjectival form will mean the state that is produced by the action. For example from **loga** = "to speak" we get **logi** = "spoken". The corresponding adverb will be **logo** = _in a spoken way_, _orally_.
-
-If the root is a thing, an object or a person, then its adjectival form will mean "that which is like the root".
-
-If the root is a place word, then it's adjectival form will mean "that which is from that place". Examples: **Iran**, **irani** = "Iranian".
-
-#### 11.1.4. Deriving nouns
-
-If the root word is an action, then its noun form will mean the product of the action. For example from **kitab-** = "to write" we get **kitabe** = "writing" or "text".
-
-If the root word is a description, then its noun form will mean a concrete instance of that quality. For example from **nov-** = "new" we get **nove** = "a novelty" i.e. something new.
-
-Additional noun suffixes are presented below.
-
-
-### 11.2. Derivational Suffixes
-
-#### 11.2.1. -i
-
-**-i** is the all-purpose adjective suffix. It creates adjectives from action and thing roots.
-
-**norme** norm, rule; **normi** normal, regular, that which has rules.  
-**tabia** nature; **tabiai** natural, that which is or behaves like the nature  
-
-It can be applied to names as well.
-
-**iran** Iran, **irani** Iranian  
-**pakistan** Pakistan, **pakistani** Pakistani  
-**amerika** America, **amerikai** American  
-**europa** Europe, **europai** European  
-**asia** Asia, **asiai** Asian  
-
-#### 11.2.3. -ar
+anto, ulo, isto, ano
 
 Creates agent nouns from action roots. It denotes a person or a tool whose job, task or role is to perform the action of that verb.
 
@@ -588,14 +400,18 @@ Creates agent nouns from action roots. It denotes a person or a tool whose job, 
 **komputa** to compute, to process data; **komputar** computer  
 **marta** to kill; **martar** killer  
 
-#### 11.2.4. -ur
+#### 11.2 -ur
+
+ato
 
 Creates undergoer nouns from action roots. It denotes the passive participant, which undergoes the action of that verb.
 
 **kriata** to create; **kriatur** creature, the one who is created  
 **marta** to kill; **martur** the one who gets killed; by extension: a martyr  
 
-#### 11.2.6. -ia
+#### 11.3 -ia
+
+aro, ejo, eco
 
 Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
 
@@ -617,11 +433,15 @@ Also abstract nouns often end in **-ia**.
 **novi** new, **novia** newness, novelty  
 
 
-#### 11.2.7. -iz-
+#### 11.4. -iz-
+
+-ig-
 
 Causative suffix.
 
-#### 11.2.8. -ul-
+#### 11.5 -ul-
+
+mal-
 
 Creates verbs that reverse the meaning of the base verb.
 
