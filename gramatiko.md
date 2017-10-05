@@ -213,7 +213,7 @@ Verboj havas du tipojn: la a-verbo kaj la u-verbo. Por u-verbo, la subjekto esta
 
 Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Verbo-Objekto kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas vidi _suku_ kaj _suka_ kiel apartajn verbojn.
 
-#### 6.5 Utila ekzemplo: ha kaj hu
+#### 6.4 Utila ekzemplo: ha kaj hu
 
 > ha - havi  
 > hu - esti havata de, de  
