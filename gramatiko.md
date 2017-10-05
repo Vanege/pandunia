@@ -82,9 +82,9 @@ Ili funkcias kiel substantivoj.
 
 ### 2.2 Precizigi refleksivecon
 
-> ye toca ye - Ĝi tuŝas ĝin, Ĝi tuŝas sin  
-> ye toca **sa** ye - Ĝi tuŝas ĝin (= Ĝi tuŝas tiun ĝin)  
-> ye toca **se** ye - Ĝi tuŝas sin (= Ĝi tuŝas propran ĝin)  
+> ye toca ye - Ĝi tuŝas ĝin, Ĝi tuŝas sin  
+> ye toca **sa** ye - Ĝi tuŝas ĝin (= Ĝi tuŝas tiun ĝin)  
+> ye toca **se** ye - Ĝi tuŝas sin (= Ĝi tuŝas propran ĝin)  
 
 --------------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kuti
 > fem si **sem** bon **ka** man - Ino estas _same_ bona _kiel_ iĉo.  
 > pandunia si **max** bon **ka** englix - Pandunia estas _pli_ bona _ol_ la Angla.  
 > munkin pandunia si **maxim** izi - Eble Pandunia estas _(la) plej_ facila.  
-> mi kar **min** multo **ka** mi loga** - Mi faras _malpli_ multe _ol_ mi diras.  
+> mi kar **min** multo **ka** mi loga - Mi faras _malpli_ multe _ol_ mi diras.  
 > mi yem akol **minim** multo - Mi konsumas alkoholon _malplej_ multe.  
 
 --------------------------------------------------------------------------------
