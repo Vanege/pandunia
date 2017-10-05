@@ -379,7 +379,7 @@ En Esperanto, normalaj radikoj povas esti a-bazaj, o-bazaj, i-bazaj aŭ e-bazaj.
 > novo - nove  
 > nove - novo / novaĵo  
 
-Pandunia povus esti pli simpla foriginte la aglutinajn ecojn (10 kaj 11), tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso). Per la finaĵoj, oni povas krei proprajn vortojn, sed ankoraŭ estas malklare kion ili signifas, kaj oni ne scias ĉu ili bezonas esti pli precizaj. Ni invitas vin uzi la lingvon kun ni en Telegram por eltrovi la plej evidentajn signifojn.
+Pandunia povus esti pli simpla foriginte la aglutinajn ecojn (10 kaj 11), tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso). Per la finaĵoj, oni povas krei proprajn vortojn, sed ankoraŭ estas malklare kion ili signifas, kaj oni ne scias ĉu ili bezonas esti pli precizaj. Ni invitas vin uzi la lingvon kun ni en Telegram (https://t.me/joinchat/APGe_EEjdrXFNPU02vKWSg) por eltrovi la plej evidentajn signifojn.
 
 --------------------------------------------------------------------------------
 
@@ -389,62 +389,31 @@ Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vorto
 
 #### 11.1 -ar
 
-anto, ulo, isto, ano
-
-Creates agent nouns from action roots. It denotes a person or a tool whose job, task or role is to perform the action of that verb.
-
-**loga** to speak; **logar** speaker, the one who speaks  
-**baka** to bake; **bakar** baker, the one who bakes  
-**lida** to lead; **lidar** leader, the one who leads  
-**komputa** to compute, to process data; **komputar** computer  
-**marta** to kill; **martar** killer  
+kaix**a** - komenci ; kaix**ar** - komenc**anto**  
+bak**a** - baki ; bak**ar** - bak**isto**  
+komput**a** - komputi ; komput**ar** - komput**ilo**  
+marta - mortigi ; martar - mortiganto  
 
 #### 11.2 -ur
 
-ato
-
-Creates undergoer nouns from action roots. It denotes the passive participant, which undergoes the action of that verb.
-
-**kriata** to create; **kriatur** creature, the one who is created  
-**marta** to kill; **martur** the one who gets killed; by extension: a martyr  
+kriat**a** - krei ; kriat**ur** - kre**aĵo**  
+mart**a** - mortigi ; mart**ur** - mortig**ato**  
 
 #### 11.3 -ia
 
-aro, ejo, eco
-
-Creates aggregate nouns. It denotes a group of elements named by the root as a whole.
-
-**manux** human being; **manuxia** humanity, mankind, all the human beings as a group.  
-**kristi** Christian, **kristia** Christianity, all Christians as a group.  
-**filsofe** view, outlook, life wisdom; **filsofia** philosophy, the discipline of wisdom.  
-
-This ending is often found in place names, especially in country names. However this use is not systematic and it's not required. There are also a lot of country names that do not end in **-ia**.
-
-**arab** Arab, Arabic; **arabia** Arabia  
-**rus** Russian; **rusia** Russia  
-**turki** Turk, Turkish; **turkia** Turkey  
-**asia** Asia  
-**indonesia** Indonesia  
-**italia** Italy  
-
-Also abstract nouns often end in **-ia**.
-
-**novi** new, **novia** newness, novelty  
-
+manux(e) - homo ; manux**ia** - homeco, hom**aro**  
+kristi - kristano ; krist**ia** - kristan**ismo**  
+jive - vivo ; jiv**ia** - vivo**scienco**  
+rus - rusa ; rus**ia** - rus**io**  
+nov - nova ; nov**ia** - nov**eco**  
 
 #### 11.4. -iz-
 
--ig-
-
-Causative suffix.
+tika - ĝusti / ĝustigi ; tik**iz**a - ĝustigi / ĝustigigi (dependas ĉu oni metas objekton aŭ ne)  
+marta - morti / mortigi ; mart**ig**a - mortigi / mortigigi  
 
 #### 11.5 -ul-
 
-mal-
-
-Creates verbs that reverse the meaning of the base verb.
-
-**liga** to tie; **ligula** to untie  
-**ziba** to plug, to close with a plug; **zibula** to unplug, to open the plug.  
-
-
+liga - ligi ; lig**ul**a - **mal**ligi  
+suku - ŝati ; suk**ul**u - malŝati  
+bon(i) - bona ; bon**ul**(i) - malbona  
