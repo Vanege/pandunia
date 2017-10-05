@@ -144,7 +144,7 @@ Notu ke eblas krei ajnan korelativon tiel:
 
 ### 5.1 Demandoj
 
-La vorto _ke_ indikas demandon pri afero. La vorto _kia_ (la verbo "demandi") nedevige indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
+La vorto _ke_ indikas demandon pri afero. La nedeviga vorto _kia_ (la verbo "demandi") indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
 
 > tumen kar **ke**? - Vi faras **kion**? (= Kion vi ĉiuj faras?)  
 > tu yem **ke pingo**? - Vi manĝis **kiun pomon**? (= Kiun pomon vi manĝis?)  
