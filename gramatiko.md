@@ -195,16 +195,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 > mus - devas, devus, devu, …  
 > munkin gon mus -  eble devis, devintus (= estus devinta)  
 
-#### 6.3 Precizigi transitivecon
-
-> tika - ĝusti, korekti (= ĝustigi)  
-> mi tika - mi ĝustas  
-> mi tika tu - mi korektas vin (= mi ĝustigas vin)  
-> mi tika xe - mi korektas aferon (= mi ĝustigas aferon)  
-
-Ekzistas sufikso por precizigi -ig- sen bezoni objekton, tamen ofte samfacilas uzi _xe_ kiel objekton.
-
-#### 6.4 "Aktiva kaj pasiva voĉo"
+#### 6.3 "Aktiva kaj pasiva voĉo"
 
 Verboj havas du tipojn: la a-verbo kaj la u-verbo. Por u-verbo, la subjekto estas la objekto de la a-verbo, kaj la objekto estas la subjekto de la a-verbo. Notu, ke kelkaj el la plej oftaj a-verboj ne nepre devas finiĝi per a (klarigo en la parto pri finaĵoj).
 
@@ -408,8 +399,7 @@ nov - nova ; nov**ia** - nov**eco**
 
 #### 11.4. -iz-
 
-tika - ĝusti / ĝustigi ; tik**iz**a - ĝustigi / ĝustigigi (dependas ĉu oni metas objekton aŭ ne)  
-marta - morti / mortigi ; mart**ig**a - mortigi / mortigigi  
+yem(a) - manĝi ; yem**iz**(a) - manĝ**ig**i
 
 #### 11.5 -ul-
 
