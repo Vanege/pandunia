@@ -266,32 +266,88 @@ En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. 
 
 ## 8. Prepozicioj
 
-### 8.1 Puraj prepozicioj
+> Mi iras el la ĉambro.
+> Mi dormas ĉar mi lacas.
+> Post du horoj, mi manĝis: ze du hor, mi yem
+> La supo estas sur la tablo.
+> Vi dormas dum mi laboras.
+> Mi iras al la butiko.
+> Mi laboras por vi.
+> Mi skribas per karbo.
+> Mi vizitas la mondon kun vi.
+> Ne estas multe da vortoj.
 
-**ze** esprimas ideon de elmovo loka, tempa, kaŭza, tema …  
+### 8.1 Prepozicioj
+
+Pandunia havas 6 prepoziciojn.
+
+**ze** esprimas ideon de elmovo loka, tempa, kaŭza …  
 **na** esprimas ideon de ĉeesto, proksimeco, …  
-**do** esprimas ideon de almovo loka, tempa, kaŭza, tema …  
+**do** esprimas ideon de almovo loka, tempa, kaŭza …  
 **bi** esprimas ideon de akompano  
+**de** funkcias kiel _de_ en Esperanto, sed ankaŭ inkluzivas _da_.  
+**ge** estas kiel _de_, sed la vortoj maldekstre de ĝi de-as la dekstrajn. Oni povas kompreni "ge" kiel "ha", kaj "de" kiel "hu". _ge_ estas ofte uzata por montri posedon: mi ge panyo = mi-a amiko. ; panyo de mi = amiko de mi = amiko mi-a.  
 
-> ze -
-> na -
-> do - 
-> bi - kun, per
+> ze - **el**, de (deiro), post / post kiam, pro / ĉar  
+> na - **je**, apud, ĉe, ĉirkaŭ, en, inter, super, sub, sur, tra, dum, laŭ, pri  
+> do - **al**, por, antaŭ / antaŭ ol, ĝis  
+> bi - kun, per  
+> de - de, da  
 
-### 8.2 Precizigi (por fari tiujn de Esperanto)
+### 8.2 Precizigi prepozicion
 
+Post prepozicio, oni povas aldoni substantivon kaj _de_. On tiel povas rekonstrui la prepoziciojn de Esperanto (ekzemple). Iu ajn povas krei tiel pli bonajn aŭ pli precizajn.
 
-###
+je : na 
+de (posedo) : de
+de (eco) : de
+de (komenco-loko) : ze
+da : de
+antaŭ (loko) : na / na rukul de
+malantaŭ (loko) : na / na ruk de
+apud/ĉe (loko) : na / na jine de
+ĉirkaŭ (loko) : na / na wen de
+ĉirkaŭ (proksimumo) : na / na sirko de
+ekster : na way de
+en (loko) : na / na in de
+inter (pozicio) : na / na inter de x i x
+inter (elektoebloj) : un ze x i x i x 
+kontraŭ (malfavore al) : do (ye) no mede x
+malpost (tempo) : do
+post (tempo) : ze 
+sub (loko) : na xia de
+super (loko) : na xiaul de
+sur (loko) : na / na par de
+tra (loko) : na krus de
+al (destino) : do
+el (fonto) : ze
+ĝis (limo de ago) : do / do limit de
+anstataŭ : na vis de
+dum (daŭro) : na / na dur de
+krom (aldono) : na maxe de
+krom (escepto) : na mine de
+kun (kunago) : bi
+laŭ (direkto/instrukcioj) : na / na cinge de / na forme de
+laŭ (vidpunkto) : na / na vide de
+malgraŭ : na / na sabe de
+per (ilo) : bi
+per (maniero) : bi
+por (celo) : do / do (mi) mede x
+por (profitanto) : do
+por (bazo de taksado) : na yang de
+pri (temo) : na tem de 
+pro (kialo) : ze / ze koz de
+sen (malesto) : bi no
 
+### 8.3 Gravaj notoj
 
-
-Pensu "na" kiel "je"
-
-
+1. En Esperanto multaj verboj estas netransitivaj, sed estas ofte akompanataj de la sama prepozicio (labori pri, pensi pri, kuri en, manki al, …). En Pandunia, ajna verbo povas esti uzata transitive (sufiĉas aldoni objekton). Tiam, la signifo de la verbo ofte estas tiu de la plej ofta prepozicio (prilabori, pripensi, enkuri, almanki). Pro tio, prepozicioj ne estas tiom ofte bezonataj. 
 
 Noto 1: Por posedo de eco, la vortoj "ge" kiel "ha", kaj "de" kiel "hu", ankaŭ estas uzataj nun. Nun estas provo vidi ĉu oni konservu ilin pro utila poseda precizeco, aŭ ĉu ni forigu ilin kaj ŝanĝu la elparolon de "ha" kaj "hu".
 
 Noto 2: En pli malnova versio de Pandunia, "bi" ne ekzistis. Ni diris "kun" per "na grup de" kaj "per" per "na tul de". Ne surpriziĝu se vi vidas iun uzi "na" anstataŭ "bi". Tio eblas.
+
+
 
 ## 9. Konjunkcioj(?)
 i
