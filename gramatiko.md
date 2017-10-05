@@ -208,7 +208,7 @@ Ekzistas sufikso por precizigi -ig- sen bezoni objekton, tamen ofte samfacilas u
 
 ### 6.4 "Aktiva kaj pasiva voĉo"
 
-Verboj havas du formojn: la a-formo kaj la u-formo. Por u-verbo, la subjekto estas la objekto de la a-verbo, kaj la objekto estas la subjekto de la a-verbo. Notu, ke kelkaj el la plej oftaj a-verboj ne nepre devas finiĝi per a (klarigo en la parto pri finaĵoj).
+Verboj havas du tipojn: la a-verbo kaj la u-verbo. Por u-verbo, la subjekto estas la objekto de la a-verbo, kaj la objekto estas la subjekto de la a-verbo. Notu, ke kelkaj el la plej oftaj a-verboj ne nepre devas finiĝi per a (klarigo en la parto pri finaĵoj).
 
 > suka - plaĉi al  
 > suku - ŝatas  
@@ -324,12 +324,12 @@ Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstr
 > dum (daŭro) : na / na dur de  
 > krom (aldono) : na maxe de  
 > krom (escepto) : na mine de  
-> kun (kunago) : bi  
+> kun (kunago) : bi / na / na grup de
 > laŭ (direkto/instrukcioj) : na / na cinge de / na forme de  
 > laŭ (vidpunkto) : na / na vide de  
 > malgraŭ : na / na sabe de  
-> per (ilo) : bi  
-> per (maniero) : bi  
+> per (ilo) : bi / na / na tul de
+> per (maniero) : bi / na / na tul de  
 > por (celo) : do / do (mi) mede x  
 > por (profitanto) : do  
 > por (bazo de taksado) : na yang de  
@@ -337,16 +337,20 @@ Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstr
 > pro (kialo) : ze / ze koz de  
 > sen (malesto) : bi no  
 
-### 8.3 Gravaj notoj
+En Esperanto multaj verboj estas netransitivaj, sed estas ofte akompanataj de la sama prepozicio (labori pri, pensi pri, kuri en, manki al, …). En Pandunia, ajna verbo povas esti uzata transitive (sufiĉas aldoni objekton). Tiam, la signifo de la verbo ofte estas tiu kun la plej ofta prepozicio (prilabori, pripensi, enkuri, almanki). Pro tio, prepozicioj ne estas tiom ofte bezonataj.
 
-1. En Esperanto multaj verboj estas netransitivaj, sed estas ofte akompanataj de la sama prepozicio (labori pri, pensi pri, kuri en, manki al, …). En Pandunia, ajna verbo povas esti uzata transitive (sufiĉas aldoni objekton). Tiam, la signifo de la verbo ofte estas tiu de la plej ofta prepozicio (prilabori, pripensi, enkuri, almanki). Pro tio, prepozicioj ne estas tiom ofte bezonataj. 
+### 8.3 Rilata subfrazo per "de"
 
-Noto 1: Por posedo de eco, la vortoj "ge" kiel "ha", kaj "de" kiel "hu", ankaŭ estas uzataj nun. Nun estas provo vidi ĉu oni konservu ilin pro utila poseda precizeco, aŭ ĉu ni forigu ilin kaj ŝanĝu la elparolon de "ha" kaj "hu".
+Oni povas imiti rilatan subfrazon per la pivota strukturo, tamen ankaŭ eblas fari tion malpli koncize aldonante **de**. Tio utilas por komencantoj, kiuj ankoraŭ ne povas rapide alterni tipon de verbo.
 
-Noto 2: En pli malnova versio de Pandunia, "bi" ne ekzistis. Ni diris "kun" per "na grup de" kaj "per" per "na tul de". Ne surpriziĝu se vi vidas iun uzi "na" anstataŭ "bi". Tio eblas.
+> mi vola **sa** vol**u** tu - Mi volas (tion), kion vi volas  
+> mi vola **sa de** tu vol**a** - Mi volas (tion), kion vi manĝas (= Mi volas tion de via manĝado.)  
 
-### 8.4 Rilata subfrazo per de
+Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "de".
 
+> mi denga sa den **de** pandunia si day bax - Mi atendas la tagon, **kiam** pandunia estos granda lingvo  
+
+--------------------------------------------------------------------------------
 
 ## 9. Konjunkcioj(?)
 i
@@ -354,6 +358,9 @@ u
 ama (sed, tamen)
 jadi (se, ĉu (whether))
 to (do)
+
+
+--------------------------------------------------------------------------------
 
 ## 10. Finaĵoj
 
@@ -364,6 +371,7 @@ Pandunia povus esti pli simpla foriginte la alineojn 10 kaj 11, tamen la lingvo 
 
 Kiel konsulti la vortaron.
 
+--------------------------------------------------------------------------------
 
 ## 11. Sufiksoj
 
