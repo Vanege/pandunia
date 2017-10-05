@@ -156,7 +156,7 @@ La vorto _ke_ indikas demandon pri afero. La vorto _kia_ (la verbo "demandi") ne
 
 > wang - flava
 > sa si wang - tio estas (la) flava  
-> sa pingo si wang pingo - tiu pomo estas (la) flava pomo
+> sa pingo si wang pingo - tiu pomo estas (la) flava pomo  
 
 > **si** - jes  
 > **no** - ne  
@@ -173,7 +173,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 
 > mi **vol** panyo - Mi volas amikon  
 > mi **darsa** loge - Mi lernas vorton  
-> pando **suku** pandunia - Pandoj ŝatas Pandunia
+> pando **suku** pandunia - Pandoj ŝatas Pandunia  
 
 > mi yem pan - Mi manĝas panon (= Mi konsumas panon)  
 > tu yem su - Vi trinkas akvon (= Vi konsumas akvon)  
@@ -181,7 +181,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 
 ### 6.1 Precizigi tempon
 
-> loga - diris, diras, diros, ĵus diris, baldaŭ diros, …
+> loga - diris, diras, diros, ĵus diris, baldaŭ diros, …  
 > **gon** loga - diris (= **antaŭe** diris)  
 > **nun** loga - diras (= **nun** diras)  
 > **futur** loga - diros (= **poste** diros)  
@@ -210,12 +210,12 @@ Ekzistas sufikso por precizigi -ig- sen bezoni objekton, tamen ofte samfacilas u
 
 Verboj havas du formojn: la a-formo kaj la u-formo. Por u-verbo, la subjekto estas la objekto de la a-verbo, kaj la objekto estas la subjekto de la a-verbo. Notu, ke kelkaj el la plej oftaj a-verboj ne nepre devas finiĝi per a (klarigo en la parto pri finaĵoj).
 
-> suka - plaĉi al
-> suku - ŝatas
-> doka - legi
-> doku - esti legata de / legiĝi
-> yem(a) - konsumi
-> yemu - esti konsumata de / konsumiĝi
+> suka - plaĉi al  
+> suku - ŝatas  
+> doka - legi  
+> doku - esti legata de / legiĝi  
+> yem(a) - konsumi  
+> yemu - esti konsumata de / konsumiĝi  
 
 > mi doka - mi legas  
 > mi doka buk - mi legas libron  
@@ -266,29 +266,31 @@ En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. 
 
 ## 8. Prepozicioj
 
-> Mi iras el la ĉambro.
-> Mi dormas ĉar mi lacas.
-> Post du horoj, mi manĝis: ze du hor, mi yem
-> La supo estas sur la tablo.
-> Vi dormas dum mi laboras.
-> Mi iras al la butiko.
-> Mi laboras por vi.
-> Mi skribas per karbo.
-> Mi vizitas la mondon kun vi.
-> Ne estas multe da vortoj.
+### 8.1 La 6 prepozicioj
 
-### 8.1 Prepozicioj
+> mi enda **ze** kamar (= mi cuta kamar) - Mi iras **el** la ĉambro. (Loko indikas ke temas pri movo)
+> mi sona **ze** mi no suku dunia - Mi dormas **ĉar** mi ne _ŝatas_ la mondon. (Verbo iom indikas ke temas pri kaŭzo)
+> mi yema **ze** du hor - Mi manĝos **post** du horoj (= Mi manĝos el _du horoj_). (Daŭro indikas ke temas pri daŭro)
+> mi si **na** darse lok - mi estas **en** la lernejo. (Loko indikas ke temas pri loko)
+> sup si **na** meza - La supo estas **sur** la tablo. (Oni kutime metas aferojn sur tablo, kaj ne sub)
+> tu sona **na** mi kara - Vi dormas **dum** mi _laboras_. (Verbo indikas ke temas pri samtempa ago)
+> mi enda **do** kafe kan (= mi enda kafe kan) - Mi iras **al** kafejo. (Loko indikas ke temas pri movo)
+> mi kara **do** tu - Mi laboras al/**por** vi. (Ne ekzistas grava diferenco tie inter "labori al" kaj "labori por")
+> tu muso cinga **do** tu yema - Vi petu por ke/**antaŭ ol** vi manĝas. (Memoru: la plej verŝajna venkas)
+> mi kitaba **bi** karbon - Mi skribas **per** karbo.
+> mi vizita dunia **bi** tu - Mi vizitas la mondon **kun** vi. (Se oni ne kutime uzi "vi", verŝajne temas pri akompano)
+> sa si darse grup **de** pandunia - Tio estas kurso **de** Pandunia.
+> Ne estas multe da vortoj. ("De" inkluzivas la sencon de "Da")
 
-Pandunia havas 6 prepoziciojn.
+Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj lingvoj. En la Angla "to" povas signifi "to (al)" kaj "in order to / for (por)", kaj "since" povas signifi "from (ekde)" kaj "because (ĉar)". 
 
-**ze** esprimas ideon de elmovo loka, tempa, kaŭza …  
-**na** esprimas ideon de ĉeesto, proksimeco, …  
-**do** esprimas ideon de almovo loka, tempa, kaŭza …  
-**bi** esprimas ideon de akompano  
-**de** funkcias kiel _de_ en Esperanto, sed ankaŭ inkluzivas _da_.  
 **ge** estas kiel _de_, sed la vortoj maldekstre de ĝi de-as la dekstrajn. Oni povas kompreni "ge" kiel "ha", kaj "de" kiel "hu". _ge_ estas ofte uzata por montri posedon: mi ge panyo = mi-a amiko. ; panyo de mi = amiko de mi = amiko mi-a.  
 
-> ze - **el**, de (deiro), post / post kiam, pro / ĉar  
+### 8.2 Precizigi prepozicion
+
+
+
+> ze - **el**, de (deiro), post / post kiam, ĉar  
 > na - **je**, apud, ĉe, ĉirkaŭ, en, inter, super, sub, sur, tra, dum, laŭ, pri  
 > do - **al**, por, antaŭ / antaŭ ol, ĝis  
 > bi - kun, per  
@@ -296,7 +298,9 @@ Pandunia havas 6 prepoziciojn.
 
 ### 8.2 Precizigi prepozicion
 
-Post prepozicio, oni povas aldoni substantivon kaj _de_. On tiel povas rekonstrui la prepoziciojn de Esperanto (ekzemple). Iu ajn povas krei tiel pli bonajn aŭ pli precizajn.
+Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstrui la prepoziciojn de sia denaska lingvo. Jen ekzemplo por Esperanto. 
+
+de Esperanto (ekzemple). Iu ajn povas krei tiel pli bonajn aŭ pli precizajn.
 
 je : na 
 de (posedo) : de
@@ -347,6 +351,7 @@ Noto 1: Por posedo de eco, la vortoj "ge" kiel "ha", kaj "de" kiel "hu", ankaŭ 
 
 Noto 2: En pli malnova versio de Pandunia, "bi" ne ekzistis. Ni diris "kun" per "na grup de" kaj "per" per "na tul de". Ne surpriziĝu se vi vidas iun uzi "na" anstataŭ "bi". Tio eblas.
 
+### 8.4 Rilata subfrazo per de
 
 
 ## 9. Konjunkcioj(?)
