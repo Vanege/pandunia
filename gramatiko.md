@@ -1,19 +1,19 @@
 Gramatiko
 =======
 
-## 0. Lingva spirito
+### 0. Lingva spirito
 
 Frazoj en naturaj lingvoj estas pezaj je neutilaj informoj. Tre ofte, larĝsenca vorto kaj kunteksto sufiĉas por transdoni la gravajn informojn. Pandunia havas larĝsencajn vortojn, kaj oni povas facile precizigi ilin. Oni diru nur tion, kion oni volas diri, sen malfaciligi esprimadon per informoj evidentaj aŭ erarkaŭzaj gramatikaĵoj. Kiam informo ne estas ĉiam utila, ĝi ne estas deviga en Pandunia. Se kunteksto ne sufiĉas por kompreni, tiam oni precizigas.
 
 --------------------------------------------------------------------------------
 
-## 1. Substantivoj
+### 1. Substantivoj
 
 Substantivoj ne ŝanĝiĝas. Ili ne estas devigaj se evidentaj, sed forigi ilin ne estas rekomendate por komencantoj.
 
 > **maw** - kato, katoj, la kato, la katoj, katino, katinoj, la katino, la katinoj, katiĉo, katiĉoj, la katiĉo, la katiĉoj …
 
-### 1.1 Precizigi gramatikan nombron
+#### 1.1 Precizigi gramatikan nombron
 
 Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kunteksto. Tamen, oni povas facile precizigi per adjektivo.
 
@@ -22,20 +22,20 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 > **poli** loge - (pluraj) vorto**j**  
 > **du** loge - du vortoj  
 
-### 1.2 Precizigi definitecon
+#### 1.2 Precizigi definitecon
 
 La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu signifas _(ĉi) tio(n)_ aŭ _(ĉi) tiu(j)(n)_ antaŭ substantivo.
 
 > liste - listo, la listo  
 > **sa** liste - la listo (= tiu listo)  
 
-### 1.3 Kombinado
+#### 1.3 Kombinado
 
 Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita vorto. La dekstra substantivo donas la naturon de la kombinado.
 
 > **loge liste** - vortaro (= vort-listo)  
 
-### 1.4 Nombroj
+#### 1.4 Nombroj
 
 > **nul** - 0  
 > **un** - 1  
@@ -60,7 +60,7 @@ Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita v
 
 --------------------------------------------------------------------------------
 
-## 2. Personaj pronomoj
+### 2. Personaj pronomoj
 
 Ili funkcias kiel substantivoj.
 
@@ -71,14 +71,14 @@ Ili funkcias kiel substantivoj.
 > **tumen** - vi, vin  
 > **yemen** - ili, ilin    
 
-### 2.1 Precizigi sekson  
+#### 2.1 Precizigi sekson  
 
 > ye - ŝi, li, ri, ĝi  
 > **man** ye - li  
 > **fem** ye - ŝi  
 > **xe** ye - ĝi  
 
-### 2.2 Precizigi refleksivecon
+#### 2.2 Precizigi refleksivecon
 
 > ye toca ye - Ĝi tuŝas ĝin, Ĝi tuŝas sin  
 > ye toca **sa** ye - Ĝi tuŝas ĝin (= Ĝi tuŝas tiun ĝin)  
@@ -86,7 +86,7 @@ Ili funkcias kiel substantivoj.
 
 --------------------------------------------------------------------------------
 
-## 3. Adjektivoj kaj adverboj
+### 3. Adjektivoj kaj adverboj
 
 Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
 
@@ -94,7 +94,7 @@ Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kuti
 > tu **sundaro** sona. - Vi **bele** dormas.  
 > tu baxa pandunia **bono**. - Vi parolas Pandunia **bone**.  
 
-### 3.1 Komparoj  
+#### 3.1 Komparoj  
 
 > fem si **sem** bon **ka** man - Ino estas _same_ bona _kiel_ iĉo.  
 > pandunia si **max** bon **ka** englix - Pandunia estas _pli_ bona _ol_ la Angla.  
@@ -104,19 +104,19 @@ Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kuti
 
 --------------------------------------------------------------------------------
 
-## 4. "Tabelvortoj"
+### 4. "Tabelvortoj"
 
 Pandunia ne havas tabelvortojn, sed oni povas facile rekrei ilin (kaj pliajn) per libera kombinado de substantivo kun substantivo, aŭ per adjektivo kun substantivo.
 
 > **sa** - tio(n), tiu(j)(n), ĉi tio(n), ĉi tiu(j)(n), tiam, ĉi tiam, tia(j)(n), ĉi tia(j)(n) …  
 > **ke** - kio(n), kiu(j)(n), kiam, kia(j)(n), kiel, kiom, kial …  
 
-### 4.1 Precizigi proksimecon lokan, tempan aŭ teman
+#### 4.1 Precizigi proksimecon lokan, tempan aŭ teman
 > sa - tio, ĉi tio  
 > **jin** sa - ĉi tio (= proksima tio)  
 > **far** sa - tio (= fora tio)  
 
-### 4.2 Precizigi tipon
+#### 4.2 Precizigi tipon
 > ke - kio, kiu, kia, kie, kiam, kial, kiel, kiom  
 > ke **xe** - kiu afero (= kio)  
 > ke **jen** - kiu homo (= kiu (ofte))  
@@ -139,9 +139,9 @@ Notu ke eblas krei ajnan korelativon tiel:
 
 --------------------------------------------------------------------------------
 
-## 5. Demandoj kaj respondoj
+### 5. Demandoj kaj respondoj
 
-### 5.1 Demandoj
+#### 5.1 Demandoj
 
 La vorto _ke_ indikas demandon pri afero. La nedeviga vorto _kia_ (la verbo "demandi") indikas demandon pri vereco de frazo. Notu ke _ke_ estas uzata nur por demandoj. Por la rilata uzo de kie (Mi ŝatas tion, _kion_ vi faras), vidu la pivotan strukturon.
 
@@ -150,7 +150,7 @@ La vorto _ke_ indikas demandon pri afero. La nedeviga vorto _kia_ (la verbo "dem
 
 > (**kia**) waf yem maw? - (**Ĉu**) hundoj manĝas katojn?  
 
-### 5.2 Respondoj
+#### 5.2 Respondoj
 
 > wang - flava
 > sa si wang - tio estas (la) flava  
@@ -165,7 +165,7 @@ _si_ estas aparta vorto. Ĝi funkcias kiel pozitiva adverbo antaŭ verbo, sed an
 
 --------------------------------------------------------------------------------
 
-## 6. Verboj
+### 6. Verboj
 
 Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas dekstre de verbo. La dekstra parto ne estas deviga.
 
@@ -177,7 +177,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 > tu yem su - Vi trinkas akvon (= Vi konsumas akvon)  
 > ye yem alkol - Li drinkas akoholon (= Li konsumas alkoholon)   
 
-### 6.1 Precizigi tempon
+#### 6.1 Precizigi tempon
 
 > loga - diris, diras, diros, ĵus diris, baldaŭ diros, …  
 > **gon** loga - diris (= **antaŭe** diris)  
@@ -186,7 +186,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 > gang loga - ĵus diris  
 > sun loga - baldaŭ diros  
 
-### 6.2 Precizigi modon
+#### 6.2 Precizigi modon
 
 > loga - diras, dirus, diru, …  
 > **munkin** loga - dirus (= **eble** diras)  
@@ -195,7 +195,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 > mus - devas, devus, devu, …  
 > munkin gon mus -  eble devis, devintus (= estus devinta)  
 
-### 6.3 Precizigi transitivecon
+#### 6.3 Precizigi transitivecon
 
 > tika - ĝusti, korekti (= ĝustigi)  
 > mi tika - mi ĝustas  
@@ -204,7 +204,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 
 Ekzistas sufikso por precizigi -ig- sen bezoni objekton, tamen ofte samfacilas uzi _xe_ kiel objekton.
 
-### 6.4 "Aktiva kaj pasiva voĉo"
+#### 6.4 "Aktiva kaj pasiva voĉo"
 
 Verboj havas du tipojn: la a-verbo kaj la u-verbo. Por u-verbo, la subjekto estas la objekto de la a-verbo, kaj la objekto estas la subjekto de la a-verbo. Notu, ke kelkaj el la plej oftaj a-verboj ne nepre devas finiĝi per a (klarigo en la parto pri finaĵoj).
 
@@ -222,7 +222,7 @@ Verboj havas du tipojn: la a-verbo kaj la u-verbo. Por u-verbo, la subjekto esta
 
 Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Verbo-Objekto kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas vidi _suku_ kaj _suka_ kiel apartajn verbojn.
 
-### 6.5 Utila ekzemplo: ha kaj hu
+#### 6.5 Utila ekzemplo: ha kaj hu
 
 > ha - havi  
 > hu - esti havata de, de  
@@ -232,7 +232,7 @@ Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Ver
 
 --------------------------------------------------------------------------------
 
-## 7. Pivota strukturo
+### 7. Pivota strukturo
 
 Objekto de unua verbo povas esti subjekto de dua verbo.
 
@@ -248,13 +248,13 @@ Se estas risko de miskompreno, eblas evidentigi la objekton de verbo voĉe per l
 
 > tu loga jumle. mi kar sa jumle. - Vi diras frazon. Mi faris tiun frazon.
 
-### 7.1 "ke-subfrazoj"
+#### 7.1 "ke-subfrazoj"
 
 En Esperanto, subfrazo per ke kutime havas tiun strukturon: S V ke, S V. Tiam oni rapide povas traduki forigante _, ke_.
 
 > mi vola tu yema - Mi volas **, ke** vi manĝu  
 
-### 7.2 "ki--subfrazoj"
+#### 7.2 "ki--subfrazoj"
 
 En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. Tiam oni povas traduki (1) forigante la korelativojn (2) aldonante _sa_ (3) ŝanĝante a-verbo al u-verbo aŭ inverse (4) metante la malnovan subjekton kiel objekton.
 
@@ -263,9 +263,9 @@ En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. 
 
 --------------------------------------------------------------------------------
 
-## 8. Prepozicioj
+### 8. Prepozicioj
 
-### 8.1 La 6 prepozicioj
+#### 8.1 La 6 prepozicioj
 
 > ze - **el**, de (deiro), post / post kiam, ĉar  
 > na - **je**, apud, ĉe, ĉirkaŭ, en, inter, super, sub, sur, tra, dum, laŭ, pri  
@@ -291,7 +291,7 @@ Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj l
 
 La lasta prepozicio estas **ge**, ĝi funkcias kiel _de_, sed la dekstro kaj maldekstro estas inversigita. _ge_ ne estas tiel ofte uzata kiel _de_, sed ĝi estas utila por montri posedon: mi **ge** panyo = mi **-a** amiko. ; Simile: panyo de mi = amiko de mi = amiko mi-a. Pro tio, kelkaj konsideras "ge" kaj "de" kiel duoblaĵoj de la verboj "ha" kaj "hu". Ni vidos en la estonteco ĉu ili estos konservitaj.
 
-### 8.2 Precizigi prepozicion
+#### 8.2 Precizigi prepozicion
 
 Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstrui la prepoziciojn de sia denaska lingvo. Jen ekzemplo por Esperanto. 
 
@@ -323,7 +323,7 @@ Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstr
 > dum (daŭro) : na / na dur de  
 > krom (aldono) : na maxe de  
 > krom (escepto) : na mine de  
-> kun (kunago) : bi / na / na grup de
+> kun (kunago) : bi / na / na grup de  
 > laŭ (direkto/instrukcioj) : na / na cinge de / na forme de  
 > laŭ (vidpunkto) : na / na vide de  
 > malgraŭ : na / na sabe de  
@@ -338,7 +338,7 @@ Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstr
 
 En Esperanto multaj verboj estas netransitivaj, sed estas ofte akompanataj de la sama prepozicio (labori pri, pensi pri, kuri en, manki al, …). En Pandunia, ajna verbo povas esti uzata transitive (sufiĉas aldoni objekton). Tiam, la signifo de la verbo ofte estas tiu kun la plej ofta prepozicio (prilabori, pripensi, enkuri, almanki). Pro tio, prepozicioj ne estas tiom ofte bezonataj.
 
-### 8.3 Rilata subfrazo per "de"
+#### 8.3 Rilata subfrazo per "de"
 
 Oni povas imiti rilatan subfrazon per la pivota strukturo, tamen ankaŭ eblas fari tion malpli koncize aldonante **de**. Tio utilas por komencantoj, kiuj ankoraŭ ne povas rapide alterni tipon de verbo.
 
@@ -351,7 +351,7 @@ Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "de".
 
 --------------------------------------------------------------------------------
 
-## 9. Konjunkcioj
+### 9. Konjunkcioj
 
 > manux **i** hewan - homo **kaj** besto  
 > hero **u** goro - heroo **aŭ** porko  
@@ -362,7 +362,7 @@ Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "de".
 
 --------------------------------------------------------------------------------
 
-## 10. Finaĵoj
+### 10. Finaĵoj
 
 En Esperanto, normalaj radikoj povas esti a-bazaj, o-bazaj, i-bazaj aŭ e-bazaj. Tio konsulteblas en Esperantaj vortaroj kiel Reta Vortaro aŭ Vortaro.net. Ofte, ĝi baziĝas sur la plej ofta vorto. En Pandunia, kiam vorto estas uzata en ĝia baza formo, finaĵo ne estas deviga, sed povas esti uzata por plia klareco.
 
@@ -382,7 +382,7 @@ Pandunia povus esti pli simpla foriginte la aglutinajn ecojn (10 kaj 11), tamen 
 
 --------------------------------------------------------------------------------
 
-## 11. Sufiksoj
+### 11. Sufiksoj
 
 Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj. Tamen, notu ke ili ne estas tiom utilaj (nek precizaj), ĉar oni ofte povas anstataŭe fari kombinadon, metante du substantivojn unu apud la alian: net **lok** = ret**ejo**.
 
