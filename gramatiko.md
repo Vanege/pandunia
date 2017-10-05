@@ -35,7 +35,6 @@ La ideo ke io estas montrata aŭ jam menciita povas esti aldonata per _sa_ kiu s
 Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita vorto. La dekstra substantivo donas la naturon de la kombinado.
 
 > **loge liste** - vortaro (= vort-listo)  
-> **pandunia jen** - panduniisto (= panduni-ulo)  
 
 ### 1.4 Nombroj
 
