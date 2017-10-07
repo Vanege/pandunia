@@ -318,7 +318,7 @@ Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstr
 > laŭ (direkto/instrukcioj) : na / na cinge de / na forme de  
 > laŭ (vidpunkto) : na / na vide de  
 > malgraŭ : na / na sabe de  
-> per (ilo) : bi / na / na tul de
+> per (ilo) : bi / na / na tul de  
 > per (maniero) : bi / na / na tul de  
 > por (celo) : do / do (mi) mede x / na gol de  
 > por (profitanto) : do  
