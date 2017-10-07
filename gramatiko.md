@@ -20,7 +20,7 @@ Kiel por ĉio, la signifo estas tiu, kiu plej taŭgas kun la resto aŭ la kuntek
 > loge - vorto, vortoj  
 > **un** loge - (unu) vorto  
 > **poli** loge - (pluraj) vorto**j**  
-> **du** loge - du vortoj  
+> **dua** loge - du vortoj  
 
 #### 1.2 Precizigi definitecon
 
@@ -39,7 +39,7 @@ Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita v
 
 > **nul** - 0  
 > **un** - 1  
-> **du** - 2  
+> **dua** - 2  
 > **sam** - 3  
 > **car** - 4  
 > **lim** - 5  
@@ -48,15 +48,15 @@ Kiam du substantivoj staras apud la alia, ili ekhavas la signifon de kunmetita v
 > **bat** - 8  
 > **noi** - 9  
 > **un nul** aŭ **des** - 10  
-> **du du** aŭ **du des du** - 22  
+> **dua dua** aŭ **dua des dua** - 22  
 > **un nul nul** aŭ **hon** - 100  
-> **du nul un** aŭ **du hon un** - 201  
+> **dua nul un** aŭ **dua hon un** - 201  
 > **un nul nul nul** aŭ **kilo** - 1 000  
 > **mega** … - 1 000 000  
 > **giga** … - 1 000 000 000  
 
-> **du mes** - du monatoj (= du-monato)  
-> **mes du** - februaro  
+> **dua mes** - du monatoj (= du-monato)  
+> **mes dua** - februaro  
 
 --------------------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ Ili funkcias kiel substantivoj.
 
 Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
 
-> waf ha **fani** nam. - Hundoj havas **amuzan** nomon.  
+> waf hava **fani** nam. - Hundoj havas **amuzan** nomon.  
 > tu **sundaro** sona. - Vi **bele** dormas.  
 > tu baxa pandunia **bono**. - Vi parolas Pandunia **bone**.  
 
@@ -213,13 +213,13 @@ Verboj havas du tipojn: la a-verbo kaj la u-verbo. Por u-verbo, la subjekto esta
 
 Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Verbo-Objekto kaj ke verboj neniam ŝanĝiĝas, ĉar oni povas vidi _suku_ kaj _suka_ kiel apartajn verbojn.
 
-#### 6.4 Utila ekzemplo: ha kaj hu
+#### 6.4 Utila ekzemplo: hava kaj havu
 
-> ha - havi  
-> hu - esti havata de, de  
+> hava - havi  
+> havu - esti havata de, de  
 
-> mi ha maw - mi-a kato = mi havas katon  
-> maw hu mi - kato de mi = kato havata de mi  
+> mi hava maw - mi-a kato = mi havas katon  
+> maw havu mi - kato de mi = kato havata de mi  
 
 --------------------------------------------------------------------------------
 
@@ -260,15 +260,15 @@ En Esperanto, subfrazoj per ki-vorto kutime havas tiun strukturo: S V O, O S V. 
 
 > ze - **el**, de (deiro), post / post kiam, ĉar  
 > na - **je**, apud, ĉe, ĉirkaŭ, en, inter, super, sub, sur, tra, dum, laŭ, pri  
-> do - **al**, por, antaŭ / antaŭ ol, ĝis  
+> ko - **al**, por, antaŭ / antaŭ ol, ĝis  
 > bi - kun, per  
-> de - de, da  
+> du - de, da  
 
 Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj lingvoj. En la Angla "to" povas signifi "to (al)" kaj "in order to / for (por)", kaj "since" povas signifi "from (ekde)" kaj "because (ĉar)". 
 
 > mi enda **ze** kamar (= mi cuta kamar) - Mi iras **el** la ĉambro. (Loko indikas ke temas pri movo)  
 > mi sona **ze** mi no suku dunia - Mi dormas **ĉar** mi ne _ŝatas_ la mondon. (Verbo iom indikas ke temas pri kaŭzo)  
-> mi yema **ze** du hor - Mi manĝos **post** du horoj (= Mi manĝos el _du horoj_). (Daŭro indikas ke temas pri daŭro)  
+> mi yema **ze** dua hor - Mi manĝos **post** du horoj (= Mi manĝos el _du horoj_). (Daŭro indikas ke temas pri daŭro)  
 > mi si **na** darse lok - mi estas **en** la lernejo. (Loko indikas ke temas pri loko)  
 > sup si **na** meza - La supo estas **sur** la tablo. (Oni kutime metas aferojn sur tablo, kaj ne sub)  
 > tu sona **na** mi kara - Vi dormas **dum** mi _laboras_. (Verbo indikas ke temas pri samtempa ago)  
@@ -277,68 +277,68 @@ Tiuj kunigoj de prepozicioj ne estas hazardaj, ili troviĝas en multaj naturaj l
 > tu muso cinga **do** tu yema - Vi petu por ke/**antaŭ ol** vi manĝas. (Memoru: la plej verŝajna venkas)  
 > mi kitaba **bi** karbon - Mi skribas **per** karbo.  
 > mi vizita dunia **bi** tu - Mi vizitas la mondon **kun** vi. (Se oni ne kutime uzi "vi", verŝajne temas pri akompano)  
-> sa si darse grup **de** pandunia - Tio estas kurso **de** Pandunia.  
-> no si multe **de** loga - Ne estas multe **da** vortoj. ("De" inkluzivas la sencon de "Da")  
+> sa si darse grup **du** pandunia - Tio estas kurso **de** Pandunia.  
+> no si multe **du** loga - Ne estas multe **da** vortoj. ("De" inkluzivas la sencon de "Da")  
 
-La lasta prepozicio estas **ge**, ĝi funkcias kiel _de_, sed la dekstro kaj maldekstro estas inversigita. _ge_ ne estas tiel ofte uzata kiel _de_, sed ĝi estas utila por montri ajnan rilaton, kiel rilaton de posedo: mi **ge** panyo = mi **-a** amiko.
+La lasta prepozicio estas **da**, ĝi funkcias kiel _du_, sed la dekstro kaj maldekstro estas inversigita. _da_ ne estas tiel ofte uzata kiel _du_, sed ĝi estas utila por montri ajnan rilaton, kiel rilaton de posedo: mi **da** panyo = mi **-a** amiko.
 
 #### 8.2 Precizigi prepozicion
 
-Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstrui la prepoziciojn de sia denaska lingvo. Jen ekzemplo por Esperanto. 
+Post prepozicio, oni povas aldoni substantivon kaj _du_. Oni tiel povas rekonstrui la prepoziciojn de sia denaska lingvo. Jen ekzemplo por Esperanto. 
 
 > je : na  
-> de (posedo) : de / na he de  
-> de (eco) : de  
-> de (komenco-loko) : ze / na kaixe de  
-> da : de / na made de  
-> antaŭ (loko) : na / na rukul de   
-> malantaŭ (loko) : na / na ruk de  
-> apud/ĉe (loko) : na / na jine de  
-> ĉirkaŭ (loko) : na / na wen de  
-> ĉirkaŭ (proksimumo) : na / na sirko de  
-> ekster : na way de  
-> en (loko) : na / na in de  
-> inter (pozicio) : na / na inter de x i x  
+> de (posedo) : du / na he du  
+> de (eco) : du  
+> de (komenco-loko) : ze / na kaixe du  
+> da : du / na made du  
+> antaŭ (loko) : na / na rukul du   
+> malantaŭ (loko) : na / na ruk du  
+> apud/ĉe (loko) : na / na jine du  
+> ĉirkaŭ (loko) : na / na wen du  
+> ĉirkaŭ (proksimumo) : na / na sirko du  
+> ekster : na way du  
+> en (loko) : na / na in du  
+> inter (pozicio) : na / na inter du x i x  
 > inter (elektoebloj) : un ze x i x i x   
-> kontraŭ (malfavore al) : do (ye) no mede x  
-> malpost (tempo) : do / na ante de  
-> post (tempo) : ze / na bada de   
-> sub (loko) : na xia de  
-> super (loko) : na xiaul de  
-> sur (loko) : na / na par de  
-> tra (loko) : na krus de  
-> al (destino) : do   
-> el (fonto) : ze / na asle de  
-> ĝis (limo de ago) : do / do limit de / na limit de  
-> anstataŭ : na vis de  
-> dum (daŭro) : na / na dur de  
-> krom (aldono) : na maxe de  
-> krom (escepto) : na mine de  
-> kun (kunago) : bi / na / na grup de  
-> laŭ (direkto/instrukcioj) : na / na cinge de / na forme de  
-> laŭ (vidpunkto) : na / na vide de  
-> malgraŭ : na / na sabe de  
-> per (ilo) : bi / na / na tul de  
-> per (maniero) : bi / na / na tul de  
-> por (celo) : do / do (mi) mede x / na gol de  
-> por (profitanto) : do  
-> por (bazo de taksado) : na yang de  
-> pri (temo) : na tem de   
-> pro (kialo) : ze / ze koz de / na koz de  
+> kontraŭ (malfavore al) : ko (ye) no mede x  
+> malpost (tempo) : ko / na ante du  
+> post (tempo) : ze / na bada du   
+> sub (loko) : na xia du  
+> super (loko) : na xiaul du  
+> sur (loko) : na / na par du  
+> tra (loko) : na krus du  
+> al (destino) : ko   
+> el (fonto) : ze / na asle du  
+> ĝis (limo de ago) : ko / ko limit du / na limit du  
+> anstataŭ : na vis du  
+> dum (daŭro) : na / na dur du  
+> krom (aldono) : na maxe du  
+> krom (escepto) : na mine du  
+> kun (kunago) : bi / na / na grup du  
+> laŭ (direkto/instrukcioj) : na / na cinge du / na forme du  
+> laŭ (vidpunkto) : na / na vide du  
+> malgraŭ : na / na sabe du  
+> per (ilo) : bi / na / na tul du  
+> per (maniero) : bi / na / na tul du  
+> por (celo) : ko / ko (mi) mede x / na gol du  
+> por (profitanto) : ko  
+> por (bazo de taksado) : na yang du  
+> pri (temo) : na tem du   
+> pro (kialo) : ze / ze koz du / na koz du  
 > sen (malesto) : bi no  
 
 En Esperanto multaj verboj estas netransitivaj, sed estas ofte akompanataj de la sama prepozicio (labori pri, pensi pri, kuri en, manki al, …). En Pandunia, ajna verbo povas esti uzata transitive (sufiĉas aldoni objekton). Tiam, la signifo de la verbo ofte estas tiu kun la plej ofta prepozicio (prilabori, pripensi, enkuri, almanki). Pro tio, prepozicioj ne estas tiom ofte bezonataj.
 
-#### 8.3 Rilata subfrazo per "de"
+#### 8.3 Rilata subfrazo per "du"
 
-Oni povas imiti rilatan subfrazon per la pivota strukturo, tamen ankaŭ eblas fari tion malpli koncize aldonante **de**. Tio utilas por komencantoj, kiuj ankoraŭ ne povas rapide alterni tipon de verbo.
+Oni povas imiti rilatan subfrazon per la pivota strukturo, tamen ankaŭ eblas fari tion malpli koncize aldonante **du**. Tio utilas por komencantoj, kiuj ankoraŭ ne povas rapide alterni tipon de verbo.
 
 > mi vola **sa** vol**u** tu - Mi volas (tion), kion vi volas  
-> mi vola **sa de** tu vol**a** - Mi volas (tion), kion vi manĝas (= Mi volas tion de via manĝado.)  
+> mi vola **sa du** tu vol**a** - Mi volas (tion), kion vi manĝas (= Mi volas tion de via manĝado.)  
 
-Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "de".
+Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "du".
 
-> mi denga sa den **de** pandunia si day bax - Mi atendas la tagon, **kiam** pandunia estos granda lingvo  
+> mi denga sa den **du** pandunia si day bax - Mi atendas la tagon, **kiam** pandunia estos granda lingvo  
 
 --------------------------------------------------------------------------------
 
