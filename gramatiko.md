@@ -287,11 +287,11 @@ La lasta prepozicio estas **ge**, ĝi funkcias kiel _de_, sed la dekstro kaj mal
 Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstrui la prepoziciojn de sia denaska lingvo. Jen ekzemplo por Esperanto. 
 
 > je : na  
-> de (posedo) : de  
+> de (posedo) : de / na he de  
 > de (eco) : de  
-> de (komenco-loko) : ze  
-> da : de  
-> antaŭ (loko) : na / na rukul de  
+> de (komenco-loko) : ze / na kaixe de  
+> da : de / na made de  
+> antaŭ (loko) : na / na rukul de   
 > malantaŭ (loko) : na / na ruk de  
 > apud/ĉe (loko) : na / na jine de  
 > ĉirkaŭ (loko) : na / na wen de  
@@ -301,15 +301,15 @@ Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstr
 > inter (pozicio) : na / na inter de x i x  
 > inter (elektoebloj) : un ze x i x i x   
 > kontraŭ (malfavore al) : do (ye) no mede x  
-> malpost (tempo) : do  
-> post (tempo) : ze   
+> malpost (tempo) : do / na ante de  
+> post (tempo) : ze / na bada de   
 > sub (loko) : na xia de  
 > super (loko) : na xiaul de  
 > sur (loko) : na / na par de  
 > tra (loko) : na krus de  
-> al (destino) : do  
-> el (fonto) : ze  
-> ĝis (limo de ago) : do / do limit de  
+> al (destino) : do   
+> el (fonto) : ze / na asle de  
+> ĝis (limo de ago) : do / do limit de / na limit de  
 > anstataŭ : na vis de  
 > dum (daŭro) : na / na dur de  
 > krom (aldono) : na maxe de  
@@ -320,11 +320,11 @@ Post prepozicio, oni povas aldoni substantivon kaj _de_. Oni tiel povas rekonstr
 > malgraŭ : na / na sabe de  
 > per (ilo) : bi / na / na tul de
 > per (maniero) : bi / na / na tul de  
-> por (celo) : do / do (mi) mede x  
+> por (celo) : do / do (mi) mede x / na gol de  
 > por (profitanto) : do  
 > por (bazo de taksado) : na yang de  
 > pri (temo) : na tem de   
-> pro (kialo) : ze / ze koz de  
+> pro (kialo) : ze / ze koz de / na koz de  
 > sen (malesto) : bi no  
 
 En Esperanto multaj verboj estas netransitivaj, sed estas ofte akompanataj de la sama prepozicio (labori pri, pensi pri, kuri en, manki al, …). En Pandunia, ajna verbo povas esti uzata transitive (sufiĉas aldoni objekton). Tiam, la signifo de la verbo ofte estas tiu kun la plej ofta prepozicio (prilabori, pripensi, enkuri, almanki). Pro tio, prepozicioj ne estas tiom ofte bezonataj.
