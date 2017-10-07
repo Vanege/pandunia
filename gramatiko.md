@@ -369,7 +369,12 @@ En Esperanto, normalaj radikoj povas esti a-bazaj, o-bazaj, i-bazaj aŭ e-bazaj.
 > novo - nove  
 > nove - novo / novaĵo  
 
-Pandunia povus esti pli simpla foriginte la aglutinajn ecojn (10 kaj 11), tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso). Per la finaĵoj, oni povas krei proprajn vortojn, sed ankoraŭ estas malklare kion ili signifas, kaj oni ne scias ĉu ili bezonas esti pli precizaj. Ni invitas vin uzi la lingvon kun ni en Telegram (https://t.me/joinchat/APGe_EEjdrXFNPU02vKWSg) por eltrovi la plej evidentajn signifojn.
+Tri teoriaj diferencoj kun Esperanto:
+- Kiam adjektivo-adverbo-baza vorto iĝas verbo, la signifo estas igi kiel la adjektivo. nova (pandunia) = nov**igi** (esperanto), ne novi (esti nova). Por diri "novi" (esperanto), oni povas diri "si novi" (pandunia).
+- Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago. kitabe = skrib**aĵo**, ne skribo (ago)
+- Kiam verbo-baza vorto iĝas adjektivo, la signifo estas la rezulto de la ago. logi (pandunia) = dir**ita**/parolita (esperanto), ne dira (priskribo de diro). Por diri "dira" (esperanto), oni povas diri "du diro (pandunia)".
+
+Pandunia povus esti pli simpla foriginte la aglutinajn ecojn (10 kaj 11), tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso). Per la finaĵoj, oni povas krei proprajn vortojn, sed ankoraŭ estas malklare kion ili signifas, do ni invitas vin uzi la lingvon kun ni en Telegram (https://t.me/joinchat/APGe_EEjdrXFNPU02vKWSg) por eltrovi la plej evidentajn signifojn.
 
 --------------------------------------------------------------------------------
 
