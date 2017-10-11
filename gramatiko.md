@@ -191,7 +191,7 @@ Verboj ne ŝanĝiĝas. Subjekto troviĝas maldekstre de verbo. Objekto troviĝas
 
 > loga - diras, dirus, diru, …  
 > **munkin** loga - dirus (= **eble** diras)  
-> **muso** loga - diru (= **deve** diras)  
+> **mus** loga - diru (= **devas** diras)  
 
 > mus - devas, devus, devu, …  
 > munkin gon mus -  eble devis, devintus (= estus devinta)  
