@@ -389,8 +389,6 @@ Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn. Tio similas al E
 > kitabi - skrib**ita** / skribata  
 > bi kitabe - per skribaĵo = skriba  
 
-logi (pandunia) = dir**ita**/parolita (esperanto), ne dira (priskribo de diro). Por diri "dira" (esperanto), oni povas diri "du diro (pandunia)".
-
 #### 10.3 Sufiksoj
 
 Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj. Tamen, notu ke ili ne estas tiom utilaj (nek precizaj), ĉar oni ofte povas anstataŭe fari kombinadon, metante du substantivojn unu apud la alian: net **lok** = ret**ejo**.
