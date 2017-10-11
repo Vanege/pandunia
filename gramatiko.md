@@ -354,7 +354,7 @@ Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "du".
 
 --------------------------------------------------------------------------------
 
-### 10. Aglutineco
+### 10. Derivado
 
 #### 10.1 Nedeviga finaĵo por baza vortotipo
 
