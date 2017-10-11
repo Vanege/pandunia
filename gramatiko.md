@@ -92,7 +92,7 @@ Ili ne ŝanĝiĝas. Antaŭ verbo aŭ je la fino de frazo, modifilo estas adverbo
 
 > waf hava **fani** nam. - Hundoj havas **amuzan** nomon.  
 > tu **sundar** sona. - Vi **bele** dormas.  
-> **bon** waf. - **Bona** hundo.
+> **bon** waf. - **Bona** hundo.  
 > tu baxa pandunia **bon**. - Vi parolas Pandunia **bone**.  
 
 #### 3.1 Komparoj  
