@@ -86,13 +86,14 @@ Ili funkcias kiel substantivoj.
 
 --------------------------------------------------------------------------------
 
-### 3. Adjektivoj kaj adverboj
+### 3. Modifiloj (Adjektivoj kaj Adverboj)
 
-Ili ne ŝanĝiĝas. Adjektivo kutime staras antaŭ sia substantivo. Adverbo kutime staras antaŭ sia verbo.
+Ili ne ŝanĝiĝas. Antaŭ verbo aŭ je la fino de frazo, modifilo estas adverbo.
 
 > waf hava **fani** nam. - Hundoj havas **amuzan** nomon.  
-> tu **sundaro** sona. - Vi **bele** dormas.  
-> tu baxa pandunia **bono**. - Vi parolas Pandunia **bone**.  
+> tu **sundar** sona. - Vi **bele** dormas.  
+> **bon** waf. - **Bona** hundo.
+> tu baxa pandunia **bon**. - Vi parolas Pandunia **bone**.  
 
 #### 3.1 Komparoj  
 
@@ -228,7 +229,7 @@ Tamen, oni povas daŭre konsideri ke la lingvo ĉiam uzas la vorton Subjekto-Ver
 Objekto de unua verbo povas esti subjekto de dua verbo.
 
 > mi **vola** mi **yema** kek - Mi **volas**, ke mi **manĝu** kukon (= Mi volas "mi manĝas kukon")  
-> mi **pensa** tu **darsa** bono - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
+> mi **pensa** tu **darsa** bon - Mi **pensas**, ke vi **lernas** bone (= Mi pensas "vi lernas bone")  
 > ye **doka** buk **kitabu** mi - Li **legas** libron, kiun **skribis** mi  
 > tu **loga** jumle **karu** mi - Vi **diras** frazon, kiun **faris** mi  
 > mi suku kena yema = mi suku mi kena mi yema - Mi ŝatas povi manĝi. (Kiam substantivo estas evidenta, oni povas forigi ĝin)
@@ -353,48 +354,49 @@ Por Esperantistoj, tio estas kvazaŭ anstataŭigi la ki-vorton per "du".
 
 --------------------------------------------------------------------------------
 
-### 10. Finaĵoj
+### 10. Aglutineco
 
-En Esperanto, normalaj radikoj povas esti a-bazaj, o-bazaj, i-bazaj aŭ e-bazaj. Tio konsulteblas en Esperantaj vortaroj kiel Reta Vortaro aŭ Vortaro.net. Ofte, ĝi baziĝas sur la plej ofta vorto. En Pandunia, kiam vorto estas uzata en ĝia baza formo, finaĵo ne estas deviga, sed povas esti uzata por plia klareco.
+#### 10.1 Nedeviga finaĵo por baza vortotipo
+
+En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu informo konsulteblas en bonaj vortaroj.) En Pandunia, kiam vorto estas uzata en sia baza formo, skribi aŭ elparoli la finaĵon ne estas devige. Estas kvazaŭ diri en Esperanto "Mi ŝat manĝ pom".
 
 > log**a** - dir**i**  
 > log**u** - esti dirata (de) / dir**iĝi**  
-> log**i** - dir**a**  
-> log**o** - dir**e**  
+> log**i** - dir**a** / dir**e**  
 > log**e** aŭ log - dir**o** / vorto (log estas baze substantivo)  
 
 > nova - novigi  
 > novu - esti novigita (de) / noviĝi  
-> novi aŭ nov - nova  (nov estas baze adjektivo)  
-> novo - nove  
+> novi aŭ nov - nova / nove (nov estas baze modifilo)  
 > nove - novo / novaĵo  
 
-Tri teoriaj diferencoj kun Esperanto:
-- Kiam adjektivo-adverbo-baza vorto iĝas verbo, la signifo estas igi kiel la adjektivo. nova (pandunia) = nov**igi** (esperanto), ne novi (esti nova). Por diri "novi" (esperanto), oni povas diri "si novi" (pandunia).
+#### 10.2 Ŝanĝi la vortotipon
+
+Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn. Tio similas al Esperanto, kun kelkaj diferencoj:
+
+- Kiam modifilo-baza vorto iĝas verbo, la signifo estas igi kiel la modifilo. nova (pandunia) = nov**igi** (esperanto), ne novi (esti nova). Por diri "novi" (esperanto), oni povas diri "si novi" (pandunia).
 - Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago. kitabe = skrib**aĵo**, ne skribo (ago)
-- Kiam verbo-baza vorto iĝas adjektivo, la signifo estas la rezulto de la ago. logi (pandunia) = dir**ita**/parolita (esperanto), ne dira (priskribo de diro). Por diri "dira" (esperanto), oni povas diri "du diro (pandunia)".
+- Kiam verbo-baza vorto iĝas modifilo, la signifo estas la rezulto de la ago. logi (pandunia) = dir**ita**/parolita (esperanto), ne dira (priskribo de diro). Por diri "dira" (esperanto), oni povas diri "du diro (pandunia)".
 
 Pandunia povus esti pli simpla foriginte la aglutinajn ecojn (10 kaj 11), tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso). Per la finaĵoj, oni povas krei proprajn vortojn, sed ankoraŭ estas malklare kion ili signifas, do ni invitas vin uzi la lingvon kun ni en Telegram (https://t.me/joinchat/APGe_EEjdrXFNPU02vKWSg) por eltrovi la plej evidentajn signifojn.
 
---------------------------------------------------------------------------------
-
-### 11. Sufiksoj
+#### 10.3 Sufiksoj
 
 Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj. Tamen, notu ke ili ne estas tiom utilaj (nek precizaj), ĉar oni ofte povas anstataŭe fari kombinadon, metante du substantivojn unu apud la alian: net **lok** = ret**ejo**.
 
-#### 11.1 -ar
+##### 11.1 -ar
 
 kaix**a** - komenci ; kaix**ar** - komenc**anto**  
 bak**a** - baki ; bak**ar** - bak**isto**  
 komput**a** - komputi ; komput**ar** - komput**ilo**  
 marta - mortigi ; martar - mortiganto  
 
-#### 11.2 -ur
+##### 11.2 -ur
 
 kriat**a** - krei ; kriat**ur** - kre**aĵo**  
 mart**a** - mortigi ; mart**ur** - mortig**ato**  
 
-#### 11.3 -ia
+##### 11.3 -ia
 
 manux(e) - homo ; manux**ia** - homeco, hom**aro**  
 kristi - kristano ; krist**ia** - kristan**ismo**  
@@ -402,11 +404,14 @@ jive - vivo ; jiv**ia** - vivo**scienco**
 rus - rusa ; rus**ia** - rus**io**  
 nov - nova ; nov**ia** - nov**eco**  
 
-#### 11.4. -iz-
+##### 11.4. -is-
 
-yem(a) - manĝi ; yem**iz**(a) - manĝ**ig**i
+yem(a) - manĝi ; yem**is**(a) - manĝ**ig**i
+sab(a) - koni/scii ; sab**is**(a) - kon**ig**i/sciigi  
 
-#### 11.5 -ul-
+Ĝi estas uzata por verbo-bazaj radikoj. Por modifilo-bazaj kaj substantivo-bazaj (ne iloj), sufiĉas aldoni verban finaĵon (-a aŭ -u) por esti iga.
+
+##### 11.5 -ul-
 
 liga - ligi ; lig**ul**a - **mal**ligi  
 suku - ŝati ; suk**ul**u - malŝati  
