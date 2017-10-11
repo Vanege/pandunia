@@ -374,29 +374,40 @@ En Esperanto, normalaj radikoj povas esti a/e-bazaj, o-bazaj kaj i-bazaj. (Tiu i
 
 Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn. Tio similas al Esperanto, kun kelkaj diferencoj:
 
-- Kiam modifilo-baza vorto iĝas verbo, la signifo estas igi kiel la modifilo. nova (pandunia) = nov**igi** (esperanto), ne novi (esti nova). Por diri "novi" (esperanto), oni povas diri "si novi" (pandunia).
-- Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago. kitabe = skrib**aĵo**, ne skribo (ago)
-- Kiam verbo-baza vorto iĝas modifilo, la signifo estas la rezulto de la ago. logi (pandunia) = dir**ita**/parolita (esperanto), ne dira (priskribo de diro). Por diri "dira" (esperanto), oni povas diri "du diro (pandunia)".
+- Kiam modifilo-baza vorto iĝas verbo, la signifo estas igi kiel la modifilo.
+> nov(i) - nova / nove  
+> nova - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
+> si nov(i) - novi = esti nova / esti nove  
 
-Pandunia povus esti pli simpla foriginte la aglutinajn ecojn (10 kaj 11), tamen la lingvo estus malpli facila, ĉar oni bezonus lerni multe pli da vortoj (ĉiu vorto estus forte ligita al vortklaso). Per la finaĵoj, oni povas krei proprajn vortojn, sed ankoraŭ estas malklare kion ili signifas, do ni invitas vin uzi la lingvon kun ni en Telegram (https://t.me/joinchat/APGe_EEjdrXFNPU02vKWSg) por eltrovi la plej evidentajn signifojn.
+- Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago.
+> kitab(a) - skribi  
+> kitabe - skrib**aĵo**   
+> kitabe kar - skribo / skribado  
+
+- Kiam verbo-baza vorto iĝas modifilo, la signifo estas la rezulto de la ago.
+> kitab(a) - skribi  
+> kitabi - skrib**ita** / skribata  
+> bi kitabe - per skribaĵo = skriba  
+
+logi (pandunia) = dir**ita**/parolita (esperanto), ne dira (priskribo de diro). Por diri "dira" (esperanto), oni povas diri "du diro (pandunia)".
 
 #### 10.3 Sufiksoj
 
 Sufiksoj similas al tiuj de Esperanto. Ili permesas aktive konstrui novajn vortojn, el tiuj jam konataj. Tamen, notu ke ili ne estas tiom utilaj (nek precizaj), ĉar oni ofte povas anstataŭe fari kombinadon, metante du substantivojn unu apud la alian: net **lok** = ret**ejo**.
 
-##### 11.1 -ar
+##### 10.3.1 -ar
 
 kaix**a** - komenci ; kaix**ar** - komenc**anto**  
 bak**a** - baki ; bak**ar** - bak**isto**  
 komput**a** - komputi ; komput**ar** - komput**ilo**  
 marta - mortigi ; martar - mortiganto  
 
-##### 11.2 -ur
+##### 10.3.2 -ur
 
 kriat**a** - krei ; kriat**ur** - kre**aĵo**  
 mart**a** - mortigi ; mart**ur** - mortig**ato**  
 
-##### 11.3 -ia
+##### 10.3.3 -ia
 
 manux(e) - homo ; manux**ia** - homeco, hom**aro**  
 kristi - kristano ; krist**ia** - kristan**ismo**  
@@ -404,14 +415,14 @@ jive - vivo ; jiv**ia** - vivo**scienco**
 rus - rusa ; rus**ia** - rus**io**  
 nov - nova ; nov**ia** - nov**eco**  
 
-##### 11.4. -is-
+##### 10.3.4 -is-
 
 yem(a) - manĝi ; yem**is**(a) - manĝ**ig**i
 sab(a) - koni/scii ; sab**is**(a) - kon**ig**i/sciigi  
 
 Ĝi estas uzata por verbo-bazaj radikoj. Por modifilo-bazaj kaj substantivo-bazaj (ne iloj), sufiĉas aldoni verban finaĵon (-a aŭ -u) por esti iga.
 
-##### 11.5 -ul-
+##### 10.3.5 -ul-
 
 liga - ligi ; lig**ul**a - **mal**ligi  
 suku - ŝati ; suk**ul**u - malŝati  
