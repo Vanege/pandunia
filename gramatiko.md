@@ -376,7 +376,7 @@ Oni povas ŝanĝi la finaĵon por krei pliajn facilajn vortojn. Tio similas al E
 
 - Kiam modifilo-baza vorto iĝas verbo, la signifo estas igi kiel la modifilo.
 > nov(i) - nova / nove  
-> nova - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
+> nova - nov**igi** (pensi ke ĉiuj verboj estas transitivaj helpas memori)  
 > si nov(i) - novi = esti nova / esti nove  
 
 - Kiam verbo-baza vorto iĝas substantivo, la signifo estas la produktaĵo de la ago.
