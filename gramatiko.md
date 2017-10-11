@@ -418,8 +418,6 @@ nov - nova ; nov**ia** - nov**eco**
 yem(a) - manĝi ; yem**is**(a) - manĝ**ig**i
 sab(a) - koni/scii ; sab**is**(a) - kon**ig**i/sciigi  
 
-Ĝi estas uzata por verbo-bazaj radikoj. Por modifilo-bazaj kaj substantivo-bazaj (ne iloj), sufiĉas aldoni verban finaĵon (-a aŭ -u) por esti iga.
-
 ##### 10.3.5 -ul-
 
 liga - ligi ; lig**ul**a - **mal**ligi  
